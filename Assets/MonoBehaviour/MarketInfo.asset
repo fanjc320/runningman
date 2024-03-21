@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fd7653343a4e83e2c311179581f38b6, type: 3}
+  m_Name: "MarketInfo"
+  m_EditorClassIdentifier: 
+  sheetName: "RunningStar"
+  worksheetName: "MarketInfo"
+  dataArray:
+  - id: "0"
+    shopinfoid: "0"
+    type: "and"
+    marketkey: "gem10"
+    comment: "ShopInfo \uD14C\uC774\uBE14 \uCC38\uC870 ID"
+  - id: "1"
+    shopinfoid: "1"
+    type: "and"
+    marketkey: "gem60"
+    comment: "\uB9C8\uCF13\uC885\uB958; ex> \uAD6C\uAE00\uD50C\uB808\uC774, ios, \uD0A8\uB4E4, ..."
+  - id: "2"
+    shopinfoid: "2"
+    type: "and"
+    marketkey: "gem150"
+    comment: "\uB9C8\uCF13\uC815\uBCF4\uC5D0 \uC785\uB825\uD558\uB294 \uD0A4\uAC12"
+  - id: "3"
+    shopinfoid: "3"
+    type: "and"
+    marketkey: "gem900"
+    comment: 
+  - id: "4"
+    shopinfoid: "0"
+    type: "ios"
+    marketkey: "gem10"
+    comment: 
+  - id: "5"
+    shopinfoid: "1"
+    type: "ios"
+    marketkey: "gem60"
+    comment: 
+  - id: "6"
+    shopinfoid: "2"
+    type: "ios"
+    marketkey: "gem150"
+    comment: 
+  - id: "7"
+    shopinfoid: "3"
+    type: "ios"
+    marketkey: "gem900"
+    comment: 

@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 640c02f3674fa790b41aba5f050c42f4, type: 3}
+  m_Name: "Default Sprite Asset"
+  m_EditorClassIdentifier: 
+  spriteSheet: {fileID: 2800000, guid: 6337bd76202747e08e7248371297bee3, type: 3}
+  material: {fileID: 0}
+  spriteInfoList:
+  - id: 0
+    name: "Default Sprite Atlas_0"
+    hashCode: 0
+    x: 12
+    y: 902
+    width: 105
+    height: 102
+    pivot: {x: -52.5, y: 51}
+    xOffset: 53
+    yOffset: 35.79
+    xAdvance: 105
+    scale: 1
+    sprite: {fileID: 0}
+  - id: 1
+    name: "Default Sprite Atlas_1"
+    hashCode: 0
+    x: 268
+    y: 774
+    width: 105
+    height: 105
+    pivot: {x: -52.5, y: 52.5}
+    xOffset: 52.69
+    yOffset: 36.19
+    xAdvance: 105
+    scale: 1
+    sprite: {fileID: 0}
+  - id: 2
+    name: "Default Sprite Atlas_2"
+    hashCode: 0
+    x: 652
+    y: 774
+    width: 105
+    height: 102
+    pivot: {x: -52.5, y: 51}
+    xOffset: 53.59
+    yOffset: 34.62
+    xAdvance: 105
+    scale: 1
+    sprite: {fileID: 0}
+  - id: 3
+    name: "Default Sprite Atlas_3"
+    hashCode: 0
+    x: 908
+    y: 646
+    width: 105
+    height: 106
+    pivot: {x: -52.5, y: 53}
+    xOffset: 54.23
+    yOffset: 37.05
+    xAdvance: 105
+    scale: 1
+    sprite: {fileID: 0}
+  - id: 4
+    name: "Whaat!"
+    hashCode: -1705198402
+    x: 396
+    y: 518
+    width: 105
+    height: 106
+    pivot: {x: -52.5, y: 53}
+    xOffset: 54
+    yOffset: 37
+    xAdvance: 105
+    scale: 1.05
+    sprite: {fileID: 0}
+  - id: 5
+    name: "Default Sprite Atlas_5"
+    hashCode: 0
+    x: 13
+    y: 390
+    width: 105
+    height: 102
+    pivot: {x: -52.5, y: 51}
+    xOffset: 0
+    yOffset: 0
+    xAdvance: 105
+    scale: 1
+    sprite: {fileID: 0}
+  - id: 6
+    name: "Default Sprite Atlas_6"
+    hashCode: 0
+    x: 396
+    y: 902
+    width: 105
+    height: 102
+    pivot: {x: -52.5, y: 51}
+    xOffset: 52.3
+    yOffset: 34.3
+    xAdvance: 104
+    scale: 0.98
+    sprite: {fileID: 0}
+  - id: 7
+    name: "Default Sprite Atlas_7"
+    hashCode: 0
+    x: 640
+    y: 262
+    width: 127
+    height: 110
+    pivot: {x: -63.5, y: 55}
+    xOffset: 51
+    yOffset: 36.9
+    xAdvance: 103
+    scale: 1.1
+    sprite: {fileID: 0}
+  - id: 8
+    name: "Default Sprite Atlas_8"
+    hashCode: 0
+    x: 659
+    y: 2
+    width: 350
+    height: 120
+    pivot: {x: -175, y: 60}
+    xOffset: 178.1
+    yOffset: 21.7
+    xAdvance: 353.7
+    scale: 1.6
+    sprite: {fileID: 0}
+  - id: 9
+    name: "Default Sprite Atlas_9"
+    hashCode: 0
+    x: 268
+    y: 262
+    width: 105
+    height: 110
+    pivot: {x: -52.5, y: 55}
+    xOffset: 53
+    yOffset: 38.85
+    xAdvance: 105
+    scale: 1
+    sprite: {fileID: 0}

@@ -1,0 +1,667 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b801698720fdcb48b75940e248938bde, type: 3}
+  m_Name: "CharacterInfo"
+  m_EditorClassIdentifier: 
+  sheetName: "RunningStar"
+  worksheetName: "CharacterInfo"
+  dataArray:
+  - id: "1"
+    name1loc: "17"
+    chardesc1loc: "10"
+    skilldesc1loc: "206"
+    cid: "1"
+    modelname: "wangko01"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_bignose_01"
+    nameimagepath: "language_main_name_bignose_01"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_bignose"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_none"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "0"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: "skill \uC740 \uC4F0\uC774\uC9C0 \uC54A\uC74C."
+  - id: "9"
+    name1loc: "25"
+    chardesc1loc: "217"
+    skilldesc1loc: "207"
+    cid: "2"
+    modelname: "girin02"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_badboy_02"
+    nameimagepath: "language_main_name_badboy_02"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_badboy"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_two_jump"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "45"
+    - "0"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "10"
+    name1loc: "26"
+    chardesc1loc: "218"
+    skilldesc1loc: "208"
+    cid: "3"
+    modelname: "yureuseu03"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_yuruce_02"
+    nameimagepath: "language_main_name_yuruce_02"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_yuruce"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_fever_speed_up"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "45"
+    - "0"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "11"
+    name1loc: "27"
+    chardesc1loc: "219"
+    skilldesc1loc: "209"
+    cid: "4"
+    modelname: "capableman02"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_spartans_02"
+    nameimagepath: "language_main_name_spartans_02"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_spartans"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_one_more"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "45"
+    - "0"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "12"
+    name1loc: "28"
+    chardesc1loc: "220"
+    skilldesc1loc: "210"
+    cid: "5"
+    modelname: "jihyo02"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_ace_02"
+    nameimagepath: "language_main_name_ace_02"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_ace"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_gold_up"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "45"
+    - "0"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "13"
+    name1loc: "29"
+    chardesc1loc: "221"
+    skilldesc1loc: "211"
+    cid: "6"
+    modelname: "haroro02"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_haroro_02"
+    nameimagepath: "language_main_name_haroro_02"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_haroro"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_resurrection"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "45"
+    - "0"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "14"
+    name1loc: "30"
+    chardesc1loc: "222"
+    skilldesc1loc: "212"
+    cid: "7"
+    modelname: "gaeri02"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_hiphoper_02"
+    nameimagepath: "language_main_name_hiphoper_02"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_hiphoper"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_mental"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "45"
+    - "0"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "2"
+    name1loc: "18"
+    chardesc1loc: "11"
+    skilldesc1loc: "207"
+    cid: "2"
+    modelname: "girin01"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_badboy_01"
+    nameimagepath: "language_main_name_badboy_01"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_badboy"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_two_jump"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "30000"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: "business \uB294 \uCD94\uD6C4\uC5D0 \uC4F0\uC77C\uAC83\uC744 \uB300\uBE44\uD55C \uAC83\uC784."
+  - id: "3"
+    name1loc: "19"
+    chardesc1loc: "12"
+    skilldesc1loc: "208"
+    cid: "3"
+    modelname: "yureuseu01"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_yuruce_01"
+    nameimagepath: "language_main_name_yuruce_01"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_yuruce"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_fever_speed_up"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "50000"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: "unlock \uC740 \uAC01\uAC01 \uBCF4\uC11D,\uACE8\uB4DC,\uD1A0\uD070ID,\uD544\uC694\uD1A0\uD070\uAC1C\uC218 \uB300\uC751\uB418\uB294 \uB9F5\uD615\uD0DC."
+  - id: "4"
+    name1loc: "20"
+    chardesc1loc: "13"
+    skilldesc1loc: "209"
+    cid: "4"
+    modelname: "capableman01"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_spartans_01"
+    nameimagepath: "language_main_name_spartans_01"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_spartans"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_one_more"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "30000"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: "\uC774\uB984\uC774\uB098 \uC124\uBA85\uB4F1 \uB85C\uCEEC\uB77C\uC774\uC9D5\uC774 \uD544\uC694\uD55C \uD544\uB4DC\uB294,"
+  - id: "5"
+    name1loc: "21"
+    chardesc1loc: "14"
+    skilldesc1loc: "210"
+    cid: "5"
+    modelname: "jihyo01"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_ace_01"
+    nameimagepath: "language_main_name_ace_01"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_ace"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_gold_up"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "50000"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: "\uD604\uC7AC\uB294 \uAC8C\uC784\uC5D0\uC11C \uBC14\uB85C \uAC00\uC838\uB2E4 \uC4F0\uACE0, \uCD94\uD6C4\uC5D0 \uAC01 \uBD80\uBD84\uC5D0, "
+  - id: "6"
+    name1loc: "22"
+    chardesc1loc: "15"
+    skilldesc1loc: "211"
+    cid: "6"
+    modelname: "haroro01"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_haroro_01"
+    nameimagepath: "language_main_name_haroro_01"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_haroro"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_resurrection"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "50000"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: "\uB85C\uCEEC\uB77C\uC774\uC9D5 \uD14C\uC774\uBE14\uC5D0 \uC815\uC758\uB418\uC5B4 \uC788\uB294 \uD0A4\uAC12\uC744 \uB123\uC73C\uBA74 \uB428."
+  - id: "7"
+    name1loc: "23"
+    chardesc1loc: "16"
+    skilldesc1loc: "212"
+    cid: "7"
+    modelname: "gaeri01"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_hiphoper_01"
+    nameimagepath: "language_main_name_hiphoper_01"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_hiphoper"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_mental"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "30000"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "8"
+    name1loc: "24"
+    chardesc1loc: "216"
+    skilldesc1loc: "206"
+    cid: "1"
+    modelname: "wangko02"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_bignose_02"
+    nameimagepath: "language_main_name_bignose_02"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_bignose"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_none"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "10000"
+    - "0"
+    - "0"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "15"
+    name1loc: "31"
+    chardesc1loc: "223"
+    skilldesc1loc: "206"
+    cid: "1"
+    modelname: "wangko03"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_bignose_03"
+    nameimagepath: "language_main_name_bignose_03"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_bignose"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_none"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "0"
+    - "0"
+    - "3"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "16"
+    name1loc: "32"
+    chardesc1loc: "224"
+    skilldesc1loc: "207"
+    cid: "2"
+    modelname: "girin03"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_badboy_03"
+    nameimagepath: "language_main_name_badboy_03"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_badboy"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_two_jump"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "0"
+    - "1"
+    - "10"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "17"
+    name1loc: "33"
+    chardesc1loc: "225"
+    skilldesc1loc: "208"
+    cid: "3"
+    modelname: "yureuseu02"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_yuruce_03"
+    nameimagepath: "language_main_name_yuruce_03"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_yuruce"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_fever_speed_up"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "0"
+    - "2"
+    - "10"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "18"
+    name1loc: "34"
+    chardesc1loc: "226"
+    skilldesc1loc: "209"
+    cid: "4"
+    modelname: "capableman03"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_spartans_03"
+    nameimagepath: "language_main_name_spartans_03"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_spartans"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_one_more"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "0"
+    - "3"
+    - "10"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "19"
+    name1loc: "35"
+    chardesc1loc: "227"
+    skilldesc1loc: "210"
+    cid: "5"
+    modelname: "jihyo03"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_ace_03"
+    nameimagepath: "language_main_name_ace_03"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_ace"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_gold_up"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "0"
+    - "4"
+    - "10"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "20"
+    name1loc: "36"
+    chardesc1loc: "228"
+    skilldesc1loc: "211"
+    cid: "6"
+    modelname: "haroro03"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_haroro_03"
+    nameimagepath: "language_main_name_haroro_03"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_haroro"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_resurrection"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "0"
+    - "5"
+    - "10"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 
+  - id: "21"
+    name1loc: "37"
+    chardesc1loc: "229"
+    skilldesc1loc: "212"
+    cid: "7"
+    modelname: "gaeri03"
+    iconpath: "CHSkinIcon\x2fmain_icon_Character_hiphoper_03"
+    nameimagepath: "language_main_name_hiphoper_03"
+    chcoinimagepath: "CHCoin\x2fmain_icon_Character_coin_hiphoper"
+    skillimagepath: "CharacterSkillIcon\x2fcommon_icon_mental"
+    unlockattrkeys:
+    - "gem"
+    - "gold"
+    - "tokenid"
+    - "tokencount"
+    unlockattrvalues:
+    - "0"
+    - "0"
+    - "6"
+    - "10"
+    businessattrkeys:
+    - "type"
+    businessattrvalues:
+    - "value"
+    skillattrkeys:
+    - "type"
+    - "desc_loc"
+    skillattrvalues:
+    - "dbljump"
+    - "\uB354\uBE14\uC810\uD504"
+    comment: 

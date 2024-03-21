@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f2ba61a1ba3c4cd2b696b8981569900, type: 3}
+  m_Name: "StartItemInfo"
+  m_EditorClassIdentifier: 
+  sheetName: "RunningStar"
+  worksheetName: "StartItemInfo"
+  dataArray:
+  - id: "0"
+    name1loc: "44"
+    desc1loc: "52"
+    costtype: "gold"
+    cost: 200
+    enabled: 1
+    iconpath: "BuffIcon\x2fingame_icon_start_fever"
+    descnameimagepath: "language_main_name_start_fever"
+    comment: "\uC544\uC774\uCF58 \uC2DC\uAC041\uD68C\uC131"
+  - id: "1"
+    name1loc: "45"
+    desc1loc: "53"
+    costtype: "gold"
+    cost: 300
+    enabled: 1
+    iconpath: "BuffIcon\x2fingame_icon_last_fever"
+    descnameimagepath: "language_main_name_last_fever"
+    comment: "\uC544\uC774\uCF58 \uC2DC\uAC041\uD68C\uC131"
+  - id: "2"
+    name1loc: "46"
+    desc1loc: "54"
+    costtype: "gold"
+    cost: 600
+    enabled: 1
+    iconpath: "BuffIcon\x2fingame_icon_helmat"
+    descnameimagepath: "language_main_name_helmet"
+    comment: "\uC544\uC774\uCF58 \uC2DC\uAC04 \uBCF4\uC720\uC544\uC774\uCF58 \uD45C\uC2DC, \uBBF8\uC2A4\uD130\uB9AC \uBC15\uC2A4\uB294 \uBC14\uB85C \uBC1C\uB3D9"
+  - id: "3"
+    name1loc: "47"
+    desc1loc: "55"
+    costtype: "gold"
+    cost: 600
+    enabled: 1
+    iconpath: "BuffIcon\x2fingame_icon_two_jump"
+    descnameimagepath: "language_main_name_two_jump"
+    comment: "\uC544\uC774\uCF58 \uD69F\uC218 \uB05D\uB0A0\uB54C\uAE4C\uC9C0 \uC720\uC9C0"
+  - id: "4"
+    name1loc: "48"
+    desc1loc: "56"
+    costtype: "gold"
+    cost: 400
+    enabled: 1
+    iconpath: "BuffIcon\x2fingame_icon_mental"
+    descnameimagepath: "language_main_name_mental"
+    comment: "\uC544\uC774\uCF58 \uC601\uAD6C"
+  - id: "5"
+    name1loc: "49"
+    desc1loc: "57"
+    costtype: "gold"
+    cost: 300
+    enabled: 1
+    iconpath: "BuffIcon\x2fingame_icon_one_more"
+    descnameimagepath: "language_main_name_one_more"
+    comment: "\uC544\uC774\uCF58 \uD69F\uC218 \uB05D\uB0A0\uB54C\uAE4C\uC9C0 \uC720\uC9C0"
+  - id: "6"
+    name1loc: "50"
+    desc1loc: "58"
+    costtype: "gold"
+    cost: 1000
+    enabled: 1
+    iconpath: "BuffIcon\x2fingame_icon_relay"
+    descnameimagepath: "language_main_name_relay"
+    comment: "\uC544\uC774\uCF58 \uD69F\uC218 \uB05D\uB0A0\uB54C\uAE4C\uC9C0 \uC720\uC9C0, \uC774\uC5B4\uD560\uB54C \uBC84\uD504\uB4E4 \uC720\uC9C0"
+  - id: "7"
+    name1loc: "51"
+    desc1loc: "59"
+    costtype: "gold"
+    cost: 1000
+    enabled: 1
+    iconpath: "BuffIcon\x2fingame_icon_bonus_gold"
+    descnameimagepath: "language_main_name_bonus_gold"
+    comment: "\uC544\uC774\uCF58 \uC601\uAD6C"

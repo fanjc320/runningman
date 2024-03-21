@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d27a19f349e83810f72245d46bdcc5d0, type: 3}
+  m_Name: "MysteryItemInfo"
+  m_EditorClassIdentifier: 
+  sheetName: "RunningStar"
+  worksheetName: "MysteryItemInfo"
+  dataArray:
+  - id: "1"
+    name1loc: "\uC274\uB4DC"
+    desc1loc: "\uC274\uB4DC \uD68D\uB4DD"
+    probability: 0.1
+    comment: "time \uB2E8\uC704\uB294 \uCD08"
+  - id: "2"
+    name1loc: "\uB354\uBE14\uCF54\uC778"
+    desc1loc: "\uC720\uC9C0 \uC2DC\uAC04\uB3D9\uC548 \uD68D\uB4DD \uCF54\uC778 2\uBC30"
+    probability: 0.2
+    comment: 
+  - id: "3"
+    name1loc: "\uC790\uC11D"
+    desc1loc: "\uC720\uC9C0 \uC2DC\uAC04\uB3D9\uC548 \uC790\uB3D9\uC73C\uB85C \uCF54\uC778 \uD68D\uB4DD"
+    probability: 0.2
+    comment: 
+  - id: "4"
+    name1loc: "\uB7F0\uB2DD\uCF54\uC778"
+    desc1loc: "\uD53C\uBC84 \uAC8C\uC774\uC2DC 10% \uD68C\uBCF5"
+    probability: 0.1
+    comment: 
+  - id: "5"
+    name1loc: "\uB354\uBE14\uC810\uD504"
+    desc1loc: "\uB354\uBE14\uC810\uD504 3\uD68C \uCD94\uAC00"
+    probability: 0.2
+    comment: 
+  - id: "6"
+    name1loc: "\uD63C\uB780"
+    desc1loc: "\uC870\uC791\uBC29\uD5A5\uC774 \uBC18\uB300\uB85C \uB428"
+    probability: 0.2
+    comment: 

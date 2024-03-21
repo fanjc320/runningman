@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cce3176ebf9d85d814a54cf337fd75c7, type: 3}
+  m_Name: "BasicStatus"
+  m_EditorClassIdentifier: 
+  sheetName: "RunningStar"
+  worksheetName: "BasicStatus"
+  dataArray:
+  - id: "1"
+    name1loc: "\uD53C\uBC84"
+    desc1loc: "\uAE30\uBCF8 \uC2DC\uAC04(\uCD08)"
+    pvalue: 6
+    comment: 
+  - id: "2"
+    name1loc: "\uC274\uB4DC"
+    desc1loc: "\uAE30\uBCF8 \uC2DC\uAC04(\uCD08)"
+    pvalue: 15
+    comment: 
+  - id: "3"
+    name1loc: "\uC790\uC11D"
+    desc1loc: "\uAE30\uBCF8 \uC2DC\uAC04(\uCD08)"
+    pvalue: 6
+    comment: 
+  - id: "4"
+    name1loc: "\uB354\uBE14\uCF54\uC778"
+    desc1loc: "\uAE30\uBCF8 \uC2DC\uAC04(\uCD08)"
+    pvalue: 6
+    comment: 
+  - id: "5"
+    name1loc: "\uD63C\uB780"
+    desc1loc: "\uAE30\uBCF8 \uC2DC\uAC04(\uCD08)"
+    pvalue: 8
+    comment: 
+  - id: "6"
+    name1loc: "\uB354\uBE14\uC810\uD504"
+    desc1loc: "\uC544\uC774\uD15C \uD68D\uB4DD \uC2DC \uCD94\uAC00 \uB418\uB294 \uD69F\uC218"
+    pvalue: 3
+    comment: 
+  - id: "7"
+    name1loc: "\uB7F0\uB2DD\uCF54\uC778"
+    desc1loc: "\uD68D\uB4DD \uC2DC \uAC8C\uC774\uC9C0 \uD68C\uBCF5 \uBE44\uC728"
+    pvalue: 0.1
+    comment: 

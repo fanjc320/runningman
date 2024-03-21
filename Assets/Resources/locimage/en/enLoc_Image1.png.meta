@@ -1,0 +1,2985 @@
+fileFormatVersion: 2
+guid: 8a248495142d48fcba10e4f86859bfe1
+timeCreated: 1710969477
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300002: language_Preference_eff_sound
+    21300152: language_mailbox_accept
+    21300018: language_ingame_2nd
+    21300118: language_result_distance
+    21300134: language_mission_rewards01
+    21300068: language_main_name_haroro_02
+    21300162: language_main_rattendance
+    21300060: language_main_name_bignose_03
+    21300028: language_ingame_retry
+    21300004: language_Preference_google_play
+    21300158: language_main_facebook_game_friends
+    21300034: language_main_btn_buy
+    21300138: language_Preference_language
+    21300020: language_ingame_back
+    21300014: language_Preference_service_center
+    21300030: language_ingame_view_ads
+    21300074: language_main_name_hiphoper_01
+    21300078: language_main_name_hiphoper_03
+    21300046: language_main_name_ace_02
+    21300106: language_mission_complete
+    21300164: language_main_request
+    21300094: language_main_name_start_fever
+    21300144: language_result_win_l
+    21300040: language_main_btn_ready_03
+    21300148: language_popup_no
+    21300120: language_result_g
+    21300058: language_main_name_bignose_02
+    21300070: language_main_name_haroro_03
+    21300054: language_main_name_badboy_03
+    21300092: language_main_name_spartans_03
+    21300112: language_mission_rewards
+    21300088: language_main_name_spartans_01
+    21300022: language_ingame_best
+    21300006: language_Preference_login
+    21300024: language_ingame_main
+    21300062: language_main_name_bonus_gold
+    21300102: language_main_name_yuruce_03
+    21300182: language_mini_game_right
+    21300128: language_result_small_score
+    21300050: language_main_name_badboy_01
+    21300080: language_main_name_last_fever
+    21300086: language_main_name_relay
+    21300052: language_main_name_badboy_02
+    21300096: language_main_name_two_jump
+    21300090: language_main_name_spartans_02
+    21300130: language_shop
+    21300114: language_popup_yes
+    21300188: language_mini_game_touch
+    21300192: language_Select
+    21300000: language_Preference_bg_sound
+    21300180: language_mini_game_ready
+    21300110: language_mission_repeat
+    21300154: language_main_day
+    21300008: language_Preference_logout
+    21300146: language_result_win_s
+    21300178: language_mini_game_left
+    21300104: language_main_total
+    21300176: language_mini_game_fail
+    21300084: language_main_name_one_more
+    21300150: language_facebook_send
+    21300066: language_main_name_haroro_01
+    21300186: language_mini_game_success
+    21300124: language_result_m
+    21300038: language_main_btn_ready_02
+    21300116: language_result_bonus
+    21300140: language_result_lose_l
+    21300044: language_main_name_ace_01
+    21300168: language_main_btn_lv_up
+    21300100: language_main_name_yuruce_02
+    21300132: language_main_free
+    21300056: language_main_name_bignose_01
+    21300142: language_result_lose_s
+    21300156: language_main_facebook_all_friends
+    21300098: language_main_name_yuruce_01
+    21300082: language_main_name_mental
+    21300174: language_mini_game_down
+    21300108: language_mission_days
+    21300026: language_ingame_relay
+    21300016: language_ingame_1st
+    21300170: language_main_character
+    21300076: language_main_name_hiphoper_02
+    21300122: language_result_gold
+    21300172: language_main_free_jewelry
+    21300064: language_main_name_coming_soon_01
+    21300042: language_main_move
+    21300136: language_popup_use
+    21300032: language_main_US_money
+    21300048: language_main_name_ace_03
+    21300160: language_main_full
+    21300190: language_mini_game_up
+    21300184: language_mini_game_slide
+    21300126: language_result_score
+    21300012: language_Preference_on
+    21300166: language_main_btn_ch_shop
+    21300010: language_Preference_off
+    21300036: language_main_btn_ready_01
+    21300072: language_main_name_helmet
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: language_Preference_eff_sound
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 322
+        width: 118
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: -15}
+        - {x: -59, y: 28}
+        - {x: -56, y: -27}
+      - - {x: 59, y: 28}
+        - {x: -56, y: -27}
+        - {x: -59, y: 28}
+      - - {x: -49, y: -28}
+        - {x: -56, y: -27}
+        - {x: 59, y: 28}
+      - - {x: 48, y: -28}
+        - {x: -49, y: -28}
+        - {x: 59, y: 28}
+      - - {x: 55, y: -9}
+        - {x: 48, y: -28}
+        - {x: 59, y: 28}
+      - - {x: 59, y: 2}
+        - {x: 55, y: -9}
+        - {x: 59, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mailbox_accept
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 138
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -17}
+        - {x: -69, y: 17}
+        - {x: 69, y: -17}
+      - - {x: 69, y: 17}
+        - {x: 69, y: -17}
+        - {x: -69, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_ingame_2nd
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 648
+        width: 66
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 13}
+        - {x: 33, y: 13}
+        - {x: -33, y: -13}
+      - - {x: -33, y: -13}
+        - {x: 33, y: 13}
+        - {x: 33, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_distance
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 714
+        width: 136
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 13.5}
+        - {x: 68, y: 13.5}
+        - {x: -68, y: -13.5}
+      - - {x: -68, y: -13.5}
+        - {x: 68, y: 13.5}
+        - {x: 68, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mission_rewards01
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 411
+        width: 114
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 12.5}
+        - {x: 57, y: 12.5}
+        - {x: -57, y: -12.5}
+      - - {x: -57, y: -12.5}
+        - {x: 57, y: 12.5}
+        - {x: 57, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_haroro_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 716
+        width: 177
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.5, y: -17.5}
+        - {x: -88.5, y: 17.5}
+        - {x: 88.5, y: -17.5}
+      - - {x: 83.5, y: 17.5}
+        - {x: 88.5, y: -17.5}
+        - {x: -88.5, y: 17.5}
+      - - {x: 88.5, y: 4.5}
+        - {x: 88.5, y: -17.5}
+        - {x: 83.5, y: 17.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_rattendance
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 984
+        width: 292
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146, y: -16.5}
+        - {x: -146, y: 19.5}
+        - {x: -144, y: -19.5}
+      - - {x: 146, y: 19.5}
+        - {x: -144, y: -19.5}
+        - {x: -146, y: 19.5}
+      - - {x: 146, y: -19.5}
+        - {x: -144, y: -19.5}
+        - {x: 146, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_bignose_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 339
+        width: 146
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 8}
+        - {x: -64, y: 39}
+        - {x: -61, y: 2}
+      - - {x: 62, y: 39}
+        - {x: -61, y: 2}
+        - {x: -64, y: 39}
+      - - {x: 62, y: 2}
+        - {x: -61, y: 2}
+        - {x: 62, y: 39}
+      - - {x: -73, y: -39}
+        - {x: -73, y: -4}
+        - {x: 73, y: -39}
+      - - {x: -71, y: -2}
+        - {x: 73, y: -39}
+        - {x: -73, y: -4}
+      - - {x: 73, y: -2}
+        - {x: 73, y: -39}
+        - {x: -71, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_ingame_retry
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 520
+        width: 144
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: -14.5}
+        - {x: 44, y: -13.5}
+        - {x: 47, y: -19.5}
+      - - {x: 44, y: -8.5}
+        - {x: 47, y: -19.5}
+        - {x: 44, y: -13.5}
+      - - {x: -72, y: -16.5}
+        - {x: -72, y: 19.5}
+        - {x: -69, y: -19.5}
+      - - {x: 72, y: 19.5}
+        - {x: -69, y: -19.5}
+        - {x: -72, y: 19.5}
+      - - {x: 44, y: -8.5}
+        - {x: -69, y: -19.5}
+        - {x: 72, y: 19.5}
+      - - {x: 38, y: -19.5}
+        - {x: -69, y: -19.5}
+        - {x: 44, y: -8.5}
+      - - {x: 40, y: -18.5}
+        - {x: 38, y: -19.5}
+        - {x: 44, y: -8.5}
+      - - {x: 44, y: -13.5}
+        - {x: 40, y: -18.5}
+        - {x: 44, y: -8.5}
+      - - {x: 47, y: -19.5}
+        - {x: 44, y: -8.5}
+        - {x: 72, y: 19.5}
+      - - {x: 61, y: -19.5}
+        - {x: 47, y: -19.5}
+        - {x: 72, y: 19.5}
+      - - {x: 69, y: -17.5}
+        - {x: 61, y: -19.5}
+        - {x: 72, y: 19.5}
+      - - {x: 72, y: -1.5}
+        - {x: 69, y: -17.5}
+        - {x: 72, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_Preference_google_play
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 784
+        width: 184
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92, y: 13.5}
+        - {x: 92, y: 13.5}
+        - {x: -92, y: -13.5}
+      - - {x: -92, y: -13.5}
+        - {x: 92, y: 13.5}
+        - {x: 92, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_facebook_game_friends
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 604
+        width: 123
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: -31.5}
+        - {x: -61.5, y: 3.5}
+        - {x: 61.5, y: -31.5}
+      - - {x: -52.5, y: 31.5}
+        - {x: 61.5, y: -31.5}
+        - {x: -61.5, y: 3.5}
+      - - {x: 50.5, y: 31.5}
+        - {x: 61.5, y: -31.5}
+        - {x: -52.5, y: 31.5}
+      - - {x: 53.5, y: 28.5}
+        - {x: 61.5, y: -31.5}
+        - {x: 50.5, y: 31.5}
+      - - {x: 61.5, y: 7.5}
+        - {x: 61.5, y: -31.5}
+        - {x: 53.5, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_btn_buy
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 959
+        width: 92
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -19}
+        - {x: -46, y: 19}
+        - {x: 45, y: -19}
+      - - {x: 46, y: 19}
+        - {x: 45, y: -19}
+        - {x: -46, y: 19}
+      - - {x: 46, y: -9}
+        - {x: 45, y: -19}
+        - {x: 46, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_Preference_language
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 333
+        width: 146
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 13.5}
+        - {x: 73, y: 13.5}
+        - {x: -73, y: -13.5}
+      - - {x: -73, y: -13.5}
+        - {x: 73, y: 13.5}
+        - {x: 73, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_ingame_back
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 293
+        width: 117
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -19}
+        - {x: -58.5, y: 19}
+        - {x: 58.5, y: -19}
+      - - {x: 58.5, y: 19}
+        - {x: 58.5, y: -19}
+        - {x: -58.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_Preference_service_center
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 922
+        width: 219
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -109.5, y: 14}
+        - {x: 109.5, y: 14}
+        - {x: -109.5, y: -14}
+      - - {x: -109.5, y: -14}
+        - {x: 109.5, y: 14}
+        - {x: 109.5, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_ingame_view_ads
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 362
+        width: 108
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 11.5}
+        - {x: 54, y: 11.5}
+        - {x: -54, y: -11.5}
+      - - {x: -54, y: -11.5}
+        - {x: 54, y: 11.5}
+        - {x: 54, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_hiphoper_01
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 723
+        width: 172
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86, y: 1.5}
+        - {x: -86, y: 39.5}
+        - {x: 83, y: 1.5}
+      - - {x: 86, y: 39.5}
+        - {x: 83, y: 1.5}
+        - {x: -86, y: 39.5}
+      - - {x: 86, y: 10.5}
+        - {x: 83, y: 1.5}
+        - {x: 86, y: 39.5}
+      - - {x: -47, y: -23.5}
+        - {x: -47, y: -5.5}
+        - {x: -46, y: -37.5}
+      - - {x: -44, y: -1.5}
+        - {x: -46, y: -37.5}
+        - {x: -47, y: -5.5}
+      - - {x: -44, y: -39.5}
+        - {x: -46, y: -37.5}
+        - {x: -44, y: -1.5}
+      - - {x: 44, y: -39.5}
+        - {x: -44, y: -39.5}
+        - {x: -44, y: -1.5}
+      - - {x: 46, y: -1.5}
+        - {x: 44, y: -39.5}
+        - {x: -44, y: -1.5}
+      - - {x: 47, y: -22.5}
+        - {x: 44, y: -39.5}
+        - {x: 46, y: -1.5}
+      - - {x: 47, y: -5.5}
+        - {x: 47, y: -22.5}
+        - {x: 46, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_hiphoper_03
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 524
+        width: 165
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 0.5}
+        - {x: -82.5, y: 39.5}
+        - {x: 75.5, y: 0.5}
+      - - {x: 82.5, y: 39.5}
+        - {x: 75.5, y: 0.5}
+        - {x: -82.5, y: 39.5}
+      - - {x: 82.5, y: 19.5}
+        - {x: 75.5, y: 0.5}
+        - {x: 82.5, y: 39.5}
+      - - {x: -42.5, y: -39.5}
+        - {x: -42.5, y: -1.5}
+        - {x: 37.5, y: -39.5}
+      - - {x: 45.5, y: -1.5}
+        - {x: 37.5, y: -39.5}
+        - {x: -42.5, y: -1.5}
+      - - {x: 45.5, y: -17.5}
+        - {x: 37.5, y: -39.5}
+        - {x: 45.5, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_ace_02
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 380
+        width: 152
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: 8}
+        - {x: -76, y: 39}
+        - {x: -73, y: 2}
+      - - {x: -75, y: 40}
+        - {x: -73, y: 2}
+        - {x: -76, y: 39}
+      - - {x: 71, y: 40}
+        - {x: -73, y: 2}
+        - {x: -75, y: 40}
+      - - {x: 76, y: 2}
+        - {x: -73, y: 2}
+        - {x: 71, y: 40}
+      - - {x: 76, y: 29}
+        - {x: 76, y: 2}
+        - {x: 71, y: 40}
+      - - {x: -63, y: -33}
+        - {x: -63, y: -16}
+        - {x: -59, y: -40}
+      - - {x: -60, y: -2}
+        - {x: -59, y: -40}
+        - {x: -63, y: -16}
+      - - {x: 54, y: -2}
+        - {x: -59, y: -40}
+        - {x: -60, y: -2}
+      - - {x: 54, y: -40}
+        - {x: -59, y: -40}
+        - {x: 54, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mission_complete
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 561
+        width: 132
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 57.5}
+        - {x: -15, y: 60.5}
+        - {x: -12, y: 54.5}
+      - - {x: -8, y: 60.5}
+        - {x: -12, y: 54.5}
+        - {x: -15, y: 60.5}
+      - - {x: -7, y: 54.5}
+        - {x: -12, y: 54.5}
+        - {x: -8, y: 60.5}
+      - - {x: -5, y: 57.5}
+        - {x: -7, y: 54.5}
+        - {x: -8, y: 60.5}
+      - - {x: -5, y: 55.5}
+        - {x: -7, y: 54.5}
+        - {x: -5, y: 57.5}
+      - - {x: -66, y: -60.5}
+        - {x: -66, y: 49.5}
+        - {x: 26, y: -60.5}
+      - - {x: 66, y: 49.5}
+        - {x: 26, y: -60.5}
+        - {x: -66, y: 49.5}
+      - - {x: 55, y: -33.5}
+        - {x: 26, y: -60.5}
+        - {x: 66, y: 49.5}
+      - - {x: 66, y: 7.5}
+        - {x: 55, y: -33.5}
+        - {x: 66, y: 49.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_request
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 539
+        width: 161
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: -15}
+        - {x: -80.5, y: 19}
+        - {x: -72.5, y: -19}
+      - - {x: 80.5, y: 19}
+        - {x: -72.5, y: -19}
+        - {x: -80.5, y: 19}
+      - - {x: 80.5, y: -19}
+        - {x: -72.5, y: -19}
+        - {x: 80.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_start_fever
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 952
+        width: 222
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111, y: 15}
+        - {x: 111, y: 15}
+        - {x: -111, y: -15}
+      - - {x: -111, y: -15}
+        - {x: 111, y: 15}
+        - {x: 111, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_win_l
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 579
+        width: 167
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.5, y: 8}
+        - {x: -83.5, y: 32}
+        - {x: -71.5, y: -31}
+      - - {x: 83.5, y: 32}
+        - {x: -71.5, y: -31}
+        - {x: -83.5, y: 32}
+      - - {x: -67.5, y: -32}
+        - {x: -71.5, y: -31}
+        - {x: 83.5, y: 32}
+      - - {x: 83.5, y: -32}
+        - {x: -67.5, y: -32}
+        - {x: 83.5, y: 32}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_btn_ready_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 500
+        width: 166
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: -38}
+        - {x: -83, y: 45}
+        - {x: -70, y: -53}
+      - - {x: -68, y: 53}
+        - {x: -70, y: -53}
+        - {x: -83, y: 45}
+      - - {x: 83, y: -53}
+        - {x: -70, y: -53}
+        - {x: -68, y: 53}
+      - - {x: 63, y: 53}
+        - {x: 83, y: -53}
+        - {x: -68, y: 53}
+      - - {x: 83, y: 47}
+        - {x: 83, y: -53}
+        - {x: 63, y: 53}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_popup_no
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 580
+        width: 62
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -19}
+        - {x: -31, y: 19}
+        - {x: 25, y: -19}
+      - - {x: 26, y: 19}
+        - {x: 25, y: -19}
+        - {x: -31, y: 19}
+      - - {x: 31, y: -13}
+        - {x: 25, y: -19}
+        - {x: 26, y: 19}
+      - - {x: 31, y: 13}
+        - {x: 31, y: -13}
+        - {x: 26, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_g
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 791
+        width: 25
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 13.5}
+        - {x: 12.5, y: 13.5}
+        - {x: -12.5, y: -13.5}
+      - - {x: -12.5, y: -13.5}
+        - {x: 12.5, y: 13.5}
+        - {x: 12.5, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_bignose_02
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 459
+        width: 156
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: 16}
+        - {x: -78, y: 39}
+        - {x: -75, y: 1}
+      - - {x: 74, y: 39}
+        - {x: -75, y: 1}
+        - {x: -78, y: 39}
+      - - {x: 78, y: 1}
+        - {x: -75, y: 1}
+        - {x: 74, y: 39}
+      - - {x: 78, y: 36}
+        - {x: 78, y: 1}
+        - {x: 74, y: 39}
+      - - {x: -26, y: -39}
+        - {x: -26, y: -2}
+        - {x: 15, y: -39}
+      - - {x: 16, y: -2}
+        - {x: 15, y: -39}
+        - {x: -26, y: -2}
+      - - {x: 16, y: -35}
+        - {x: 15, y: -39}
+        - {x: 16, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_haroro_03
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 700
+        width: 171
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 3}
+        - {x: -63.5, y: 39}
+        - {x: 72.5, y: 3}
+      - - {x: 72.5, y: 39}
+        - {x: 72.5, y: 3}
+        - {x: -63.5, y: 39}
+      - - {x: -85.5, y: -39}
+        - {x: -85.5, y: -2}
+        - {x: 85.5, y: -39}
+      - - {x: 85.5, y: -2}
+        - {x: 85.5, y: -39}
+        - {x: -85.5, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_badboy_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 161
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: 16.5}
+        - {x: -49.5, y: 39.5}
+        - {x: -42.5, y: 2.5}
+      - - {x: 43.5, y: 39.5}
+        - {x: -42.5, y: 2.5}
+        - {x: -49.5, y: 39.5}
+      - - {x: 46.5, y: 2.5}
+        - {x: -42.5, y: 2.5}
+        - {x: 43.5, y: 39.5}
+      - - {x: 49.5, y: 25.5}
+        - {x: 46.5, y: 2.5}
+        - {x: 43.5, y: 39.5}
+      - - {x: 49.5, y: 9.5}
+        - {x: 46.5, y: 2.5}
+        - {x: 49.5, y: 25.5}
+      - - {x: -80.5, y: -35.5}
+        - {x: -80.5, y: -5.5}
+        - {x: -73.5, y: -39.5}
+      - - {x: -78.5, y: -1.5}
+        - {x: -73.5, y: -39.5}
+        - {x: -80.5, y: -5.5}
+      - - {x: 80.5, y: -1.5}
+        - {x: -73.5, y: -39.5}
+        - {x: -78.5, y: -1.5}
+      - - {x: 80.5, y: -39.5}
+        - {x: -73.5, y: -39.5}
+        - {x: 80.5, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_spartans_03
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 438
+        width: 148
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 2}
+        - {x: -74, y: 40}
+        - {x: 74, y: 2}
+      - - {x: 74, y: 40}
+        - {x: 74, y: 2}
+        - {x: -74, y: 40}
+      - - {x: -66, y: -35}
+        - {x: -66, y: -2}
+        - {x: -60, y: -40}
+      - - {x: 50, y: -2}
+        - {x: -60, y: -40}
+        - {x: -66, y: -2}
+      - - {x: 57, y: -40}
+        - {x: -60, y: -40}
+        - {x: 50, y: -2}
+      - - {x: 57, y: -8}
+        - {x: 57, y: -40}
+        - {x: 50, y: -2}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mission_rewards
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 387
+        width: 86
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -16.5}
+        - {x: -43, y: 12.5}
+        - {x: -42, y: -18.5}
+      - - {x: -30, y: 24.5}
+        - {x: -42, y: -18.5}
+        - {x: -43, y: 12.5}
+      - - {x: -37, y: -24.5}
+        - {x: -42, y: -18.5}
+        - {x: -30, y: 24.5}
+      - - {x: 39, y: -24.5}
+        - {x: -37, y: -24.5}
+        - {x: -30, y: 24.5}
+      - - {x: 18, y: 2.5}
+        - {x: 39, y: -24.5}
+        - {x: -30, y: 24.5}
+      - - {x: 15, y: 24.5}
+        - {x: 18, y: 2.5}
+        - {x: -30, y: 24.5}
+      - - {x: 20, y: 2.5}
+        - {x: 39, y: -24.5}
+        - {x: 18, y: 2.5}
+      - - {x: 39, y: 2.5}
+        - {x: 39, y: -24.5}
+        - {x: 20, y: 2.5}
+      - - {x: 43, y: -21.5}
+        - {x: 39, y: -24.5}
+        - {x: 39, y: 2.5}
+      - - {x: 43, y: 0.5}
+        - {x: 43, y: -21.5}
+        - {x: 39, y: 2.5}
+      - - {x: 15, y: 24.5}
+        - {x: 25, y: 14.5}
+        - {x: 18, y: 2.5}
+      - - {x: 20, y: 2.5}
+        - {x: 18, y: 2.5}
+        - {x: 25, y: 14.5}
+      - - {x: 23, y: 6.5}
+        - {x: 20, y: 2.5}
+        - {x: 25, y: 14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_spartans_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 890
+        width: 214
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -13.5}
+        - {x: 4, y: -8.5}
+        - {x: 5, y: -18.5}
+      - - {x: -107, y: -18.5}
+        - {x: -107, y: 18.5}
+        - {x: 3, y: -18.5}
+      - - {x: 4, y: -8.5}
+        - {x: 3, y: -18.5}
+        - {x: -107, y: 18.5}
+      - - {x: 107, y: 18.5}
+        - {x: 4, y: -8.5}
+        - {x: -107, y: 18.5}
+      - - {x: 4, y: -13.5}
+        - {x: 3, y: -18.5}
+        - {x: 4, y: -8.5}
+      - - {x: 5, y: -18.5}
+        - {x: 4, y: -8.5}
+        - {x: 107, y: 18.5}
+      - - {x: 107, y: -18.5}
+        - {x: 5, y: -18.5}
+        - {x: 107, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_ingame_best
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 620
+        width: 65
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 13}
+        - {x: 32.5, y: 13}
+        - {x: -32.5, y: -13}
+      - - {x: -32.5, y: -13}
+        - {x: 32.5, y: 13}
+        - {x: 32.5, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_Preference_login
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 440
+        width: 59
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -5}
+        - {x: -29.5, y: 28}
+        - {x: -23.5, y: -27}
+      - - {x: 29.5, y: 28}
+        - {x: -23.5, y: -27}
+        - {x: -29.5, y: 28}
+      - - {x: -19.5, y: -28}
+        - {x: -23.5, y: -27}
+        - {x: 29.5, y: 28}
+      - - {x: 24.5, y: -28}
+        - {x: -19.5, y: -28}
+        - {x: 29.5, y: 28}
+      - - {x: 29.5, y: -20}
+        - {x: 24.5, y: -28}
+        - {x: 29.5, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_ingame_main
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 380
+        width: 111
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: -18.5}
+        - {x: -55.5, y: 18.5}
+        - {x: 55.5, y: -18.5}
+      - - {x: 55.5, y: 18.5}
+        - {x: 55.5, y: -18.5}
+        - {x: -55.5, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_bonus_gold
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 891
+        width: 211
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105.5, y: 14.5}
+        - {x: 105.5, y: 14.5}
+        - {x: -105.5, y: -14.5}
+      - - {x: -105.5, y: -14.5}
+        - {x: 105.5, y: 14.5}
+        - {x: 105.5, y: -14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_yuruce_03
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 362
+        width: 147
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 1.5}
+        - {x: -73.5, y: 39.5}
+        - {x: 73.5, y: 1.5}
+      - - {x: 73.5, y: 39.5}
+        - {x: 73.5, y: 1.5}
+        - {x: -73.5, y: 39.5}
+      - - {x: -49.5, y: -19.5}
+        - {x: -49.5, y: -6.5}
+        - {x: -48.5, y: -32.5}
+      - - {x: -45.5, y: -2.5}
+        - {x: -48.5, y: -32.5}
+        - {x: -49.5, y: -6.5}
+      - - {x: -47.5, y: -37.5}
+        - {x: -48.5, y: -32.5}
+        - {x: -45.5, y: -2.5}
+      - - {x: -46.5, y: -39.5}
+        - {x: -47.5, y: -37.5}
+        - {x: -45.5, y: -2.5}
+      - - {x: 38.5, y: -39.5}
+        - {x: -46.5, y: -39.5}
+        - {x: -45.5, y: -2.5}
+      - - {x: 36.5, y: -2.5}
+        - {x: 38.5, y: -39.5}
+        - {x: -45.5, y: -2.5}
+      - - {x: 39.5, y: -3.5}
+        - {x: 38.5, y: -39.5}
+        - {x: 36.5, y: -2.5}
+      - - {x: 39.5, y: -31.5}
+        - {x: 38.5, y: -39.5}
+        - {x: 39.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mini_game_right
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 929
+        width: 178
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89, y: -26.5}
+        - {x: -89, y: 26.5}
+        - {x: 89, y: -26.5}
+      - - {x: 89, y: 26.5}
+        - {x: 89, y: -26.5}
+        - {x: -89, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_small_score
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 292
+        width: 89
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 14}
+        - {x: 44.5, y: 14}
+        - {x: -44.5, y: -14}
+      - - {x: -44.5, y: -14}
+        - {x: 44.5, y: 14}
+        - {x: 44.5, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_badboy_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 813
+        width: 187
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: -18}
+        - {x: 1.5, y: 18}
+        - {x: 88.5, y: -18}
+      - - {x: 93.5, y: 18}
+        - {x: 88.5, y: -18}
+        - {x: 1.5, y: 18}
+      - - {x: 93.5, y: -6}
+        - {x: 88.5, y: -18}
+        - {x: 93.5, y: 18}
+      - - {x: -93.5, y: -18}
+        - {x: -93.5, y: 18}
+        - {x: -3.5, y: -18}
+      - - {x: -7.5, y: 18}
+        - {x: -3.5, y: -18}
+        - {x: -93.5, y: 18}
+      - - {x: -3.5, y: 11}
+        - {x: -3.5, y: -18}
+        - {x: -7.5, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_last_fever
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 859
+        width: 195
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.5, y: 15}
+        - {x: 97.5, y: 15}
+        - {x: -97.5, y: -15}
+      - - {x: -97.5, y: -15}
+        - {x: 97.5, y: 15}
+        - {x: 97.5, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_relay
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 380
+        width: 109
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: 14.5}
+        - {x: 54.5, y: 14.5}
+        - {x: -54.5, y: -14.5}
+      - - {x: -54.5, y: -14.5}
+        - {x: 54.5, y: 14.5}
+        - {x: 54.5, y: -14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_badboy_02
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 825
+        width: 128
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 3.5}
+        - {x: -52, y: 39.5}
+        - {x: -43, y: 1.5}
+      - - {x: 49, y: 39.5}
+        - {x: -43, y: 1.5}
+        - {x: -52, y: 39.5}
+      - - {x: 49, y: 1.5}
+        - {x: -43, y: 1.5}
+        - {x: 49, y: 39.5}
+      - - {x: 52, y: 8.5}
+        - {x: 49, y: 1.5}
+        - {x: 49, y: 39.5}
+      - - {x: 52, y: 28.5}
+        - {x: 52, y: 8.5}
+        - {x: 49, y: 39.5}
+      - - {x: -64, y: -39.5}
+        - {x: -64, y: -6.5}
+        - {x: 64, y: -39.5}
+      - - {x: -60, y: -1.5}
+        - {x: 64, y: -39.5}
+        - {x: -64, y: -6.5}
+      - - {x: 64, y: -1.5}
+        - {x: 64, y: -39.5}
+        - {x: -60, y: -1.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_two_jump
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 753
+        width: 181
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 14.5}
+        - {x: 90.5, y: 14.5}
+        - {x: -90.5, y: -14.5}
+      - - {x: -90.5, y: -14.5}
+        - {x: 90.5, y: 14.5}
+        - {x: 90.5, y: -14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_spartans_02
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 641
+        width: 169
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 6}
+        - {x: -71.5, y: 40}
+        - {x: -68.5, y: 2}
+      - - {x: 80.5, y: 40}
+        - {x: -68.5, y: 2}
+        - {x: -71.5, y: 40}
+      - - {x: 80.5, y: 2}
+        - {x: -68.5, y: 2}
+        - {x: 80.5, y: 40}
+      - - {x: -84.5, y: -34}
+        - {x: -84.5, y: -2}
+        - {x: -82.5, y: -39}
+      - - {x: 77.5, y: -2}
+        - {x: -82.5, y: -39}
+        - {x: -84.5, y: -2}
+      - - {x: -79.5, y: -40}
+        - {x: -82.5, y: -39}
+        - {x: 77.5, y: -2}
+      - - {x: 83.5, y: -40}
+        - {x: -79.5, y: -40}
+        - {x: 77.5, y: -2}
+      - - {x: 84.5, y: -6}
+        - {x: 83.5, y: -40}
+        - {x: 77.5, y: -2}
+      - - {x: 84.5, y: -39}
+        - {x: 83.5, y: -40}
+        - {x: 84.5, y: -6}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_shop
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 357
+        width: 78
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 13.5}
+        - {x: 39, y: 13.5}
+        - {x: -39, y: -13.5}
+      - - {x: -39, y: -13.5}
+        - {x: 39, y: 13.5}
+        - {x: 39, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_popup_yes
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 828
+        width: 81
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -19}
+        - {x: -40.5, y: 19}
+        - {x: 39.5, y: -19}
+      - - {x: 40.5, y: 19}
+        - {x: 39.5, y: -19}
+        - {x: -40.5, y: 19}
+      - - {x: 40.5, y: -17}
+        - {x: 39.5, y: -19}
+        - {x: 40.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mini_game_touch
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 745
+        width: 190
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -87, y: -56}
+        - {x: -87, y: -4}
+        - {x: 88, y: -56}
+      - - {x: -85, y: 0}
+        - {x: 88, y: -56}
+        - {x: -87, y: -4}
+      - - {x: 82, y: 0}
+        - {x: 88, y: -56}
+        - {x: -85, y: 0}
+      - - {x: 88, y: -2}
+        - {x: 88, y: -56}
+        - {x: 82, y: 0}
+      - - {x: -95, y: 7}
+        - {x: -95, y: 56}
+        - {x: -87, y: 0}
+      - - {x: 95, y: 56}
+        - {x: -87, y: 0}
+        - {x: -95, y: 56}
+      - - {x: -85, y: 0}
+        - {x: -87, y: 0}
+        - {x: 95, y: 56}
+      - - {x: 82, y: 0}
+        - {x: -85, y: 0}
+        - {x: 95, y: 56}
+      - - {x: 95, y: 0}
+        - {x: 82, y: 0}
+        - {x: 95, y: 56}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_Select
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 459
+        width: 153
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: -19}
+        - {x: -76.5, y: 19}
+        - {x: 76.5, y: -19}
+      - - {x: 76.5, y: 19}
+        - {x: 76.5, y: -19}
+        - {x: -76.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_Preference_bg_sound
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 868
+        width: 192
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -1}
+        - {x: 43, y: -1}
+        - {x: 44, y: -1}
+      - - {x: -52, y: -28}
+        - {x: 40, y: 0}
+        - {x: 44, y: -28}
+      - - {x: 43, y: -1}
+        - {x: 44, y: -28}
+        - {x: 40, y: 0}
+      - - {x: 43, y: -1}
+        - {x: 44, y: -28}
+        - {x: 43, y: -1}
+      - - {x: 44, y: -1}
+        - {x: 44, y: -28}
+        - {x: 43, y: -1}
+      - - {x: 54, y: -19}
+        - {x: 44, y: -28}
+        - {x: 44, y: -1}
+      - - {x: 49, y: -5}
+        - {x: 54, y: -19}
+        - {x: 44, y: -1}
+      - - {x: -96, y: -2}
+        - {x: -96, y: 28}
+        - {x: -52, y: -28}
+      - - {x: 95, y: 28}
+        - {x: -52, y: -28}
+        - {x: -96, y: 28}
+      - - {x: 40, y: 0}
+        - {x: -52, y: -28}
+        - {x: 95, y: 28}
+      - - {x: 42, y: 0}
+        - {x: 40, y: 0}
+        - {x: 95, y: 28}
+      - - {x: 43, y: -1}
+        - {x: 42, y: 0}
+        - {x: 95, y: 28}
+      - - {x: 44, y: -1}
+        - {x: 43, y: -1}
+        - {x: 95, y: 28}
+      - - {x: 63, y: -1}
+        - {x: 44, y: -1}
+        - {x: 95, y: 28}
+      - - {x: 89, y: -2}
+        - {x: 63, y: -1}
+        - {x: 95, y: 28}
+      - - {x: 96, y: 3}
+        - {x: 89, y: -2}
+        - {x: 95, y: 28}
+      - - {x: 96, y: 25}
+        - {x: 96, y: 3}
+        - {x: 95, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mini_game_ready
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 873
+        width: 183
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: -27}
+        - {x: -91.5, y: 27}
+        - {x: 89.5, y: -27}
+      - - {x: 91.5, y: 27}
+        - {x: 89.5, y: -27}
+        - {x: -91.5, y: 27}
+      - - {x: 91.5, y: -15}
+        - {x: 89.5, y: -27}
+        - {x: 91.5, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mission_repeat
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 984
+        width: 338
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -8.5}
+        - {x: -5, y: 18.5}
+        - {x: -2, y: -19.5}
+      - - {x: -4, y: 19.5}
+        - {x: -2, y: -19.5}
+        - {x: -5, y: 18.5}
+      - - {x: 169, y: 19.5}
+        - {x: -2, y: -19.5}
+        - {x: -4, y: 19.5}
+      - - {x: 169, y: -19.5}
+        - {x: -2, y: -19.5}
+        - {x: 169, y: 19.5}
+      - - {x: -169, y: -18.5}
+        - {x: -169, y: 19.5}
+        - {x: -168, y: -19.5}
+      - - {x: -7, y: 19.5}
+        - {x: -168, y: -19.5}
+        - {x: -169, y: 19.5}
+      - - {x: -7, y: -19.5}
+        - {x: -168, y: -19.5}
+        - {x: -7, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_day
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 326
+        width: 56
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 13}
+        - {x: 28, y: 13}
+        - {x: -28, y: -13}
+      - - {x: -28, y: -13}
+        - {x: 28, y: 13}
+        - {x: 28, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_Preference_logout
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 868
+        width: 62
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -26}
+        - {x: -31, y: 28}
+        - {x: -29, y: -28}
+      - - {x: 31, y: 28}
+        - {x: -29, y: -28}
+        - {x: -31, y: 28}
+      - - {x: 28, y: -28}
+        - {x: -29, y: -28}
+        - {x: 31, y: 28}
+      - - {x: 31, y: -23}
+        - {x: 28, y: -28}
+        - {x: 31, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_win_s
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 551
+        width: 62
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 13.5}
+        - {x: 31, y: 13.5}
+        - {x: -31, y: -13.5}
+      - - {x: -31, y: -13.5}
+        - {x: 31, y: 13.5}
+        - {x: 31, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mini_game_left
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 906
+        width: 130
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -25.5}
+        - {x: -65, y: 25.5}
+        - {x: 61, y: -25.5}
+      - - {x: 65, y: 25.5}
+        - {x: 61, y: -25.5}
+        - {x: -65, y: 25.5}
+      - - {x: 65, y: -6.5}
+        - {x: 61, y: -25.5}
+        - {x: 65, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_total
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 926
+        width: 256
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -28.5}
+        - {x: -36, y: -5.5}
+        - {x: -34, y: -28.5}
+      - - {x: -34, y: -10.5}
+        - {x: -34, y: -28.5}
+        - {x: -36, y: -5.5}
+      - - {x: -34, y: -28.5}
+        - {x: -34, y: -10.5}
+        - {x: 128, y: -28.5}
+      - - {x: -36, y: -5.5}
+        - {x: -36, y: 28.5}
+        - {x: -34, y: -10.5}
+      - - {x: 128, y: 28.5}
+        - {x: -34, y: -10.5}
+        - {x: -36, y: 28.5}
+      - - {x: 128, y: -28.5}
+        - {x: -34, y: -10.5}
+        - {x: 128, y: 28.5}
+      - - {x: -128, y: -26.5}
+        - {x: -128, y: 1.5}
+        - {x: -126, y: -28.5}
+      - - {x: -39, y: 1.5}
+        - {x: -126, y: -28.5}
+        - {x: -128, y: 1.5}
+      - - {x: -36, y: -28.5}
+        - {x: -126, y: -28.5}
+        - {x: -39, y: 1.5}
+      - - {x: -36, y: -5.5}
+        - {x: -36, y: -28.5}
+        - {x: -39, y: 1.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mini_game_fail
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 376
+        width: 121
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: -25.5}
+        - {x: -60.5, y: 25.5}
+        - {x: 60.5, y: -25.5}
+      - - {x: 60.5, y: 25.5}
+        - {x: 60.5, y: -25.5}
+        - {x: -60.5, y: 25.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_one_more
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 713
+        width: 170
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: 15}
+        - {x: 85, y: 15}
+        - {x: -85, y: -15}
+      - - {x: -85, y: -15}
+        - {x: 85, y: 15}
+        - {x: 85, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_facebook_send
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 321
+        width: 92
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: -16}
+        - {x: -46, y: 15}
+        - {x: -45, y: -17}
+      - - {x: -43, y: 17}
+        - {x: -45, y: -17}
+        - {x: -46, y: 15}
+      - - {x: 45, y: -17}
+        - {x: -45, y: -17}
+        - {x: -43, y: 17}
+      - - {x: 45, y: 17}
+        - {x: 45, y: -17}
+        - {x: -43, y: 17}
+      - - {x: 46, y: -16}
+        - {x: 45, y: -17}
+        - {x: 45, y: 17}
+      - - {x: 46, y: 14}
+        - {x: 46, y: -16}
+        - {x: 45, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_haroro_01
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 300
+        width: 100
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 24}
+        - {x: -50, y: 39}
+        - {x: -49, y: 3}
+      - - {x: 50, y: 39}
+        - {x: -49, y: 3}
+        - {x: -50, y: 39}
+      - - {x: 50, y: 3}
+        - {x: -49, y: 3}
+        - {x: 50, y: 39}
+      - - {x: -50, y: -39}
+        - {x: -50, y: -1}
+        - {x: 50, y: -39}
+      - - {x: 45, y: -1}
+        - {x: 50, y: -39}
+        - {x: -50, y: -1}
+      - - {x: 50, y: -2}
+        - {x: 50, y: -39}
+        - {x: 45, y: -1}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mini_game_success
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 226
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113, y: -10.5}
+        - {x: -113, y: 22.5}
+        - {x: -111, y: -26.5}
+      - - {x: -108, y: 26.5}
+        - {x: -111, y: -26.5}
+        - {x: -113, y: 22.5}
+      - - {x: 106, y: -26.5}
+        - {x: -111, y: -26.5}
+        - {x: -108, y: 26.5}
+      - - {x: 113, y: 26.5}
+        - {x: 106, y: -26.5}
+        - {x: -108, y: 26.5}
+      - - {x: 113, y: -19.5}
+        - {x: 106, y: -26.5}
+        - {x: 113, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_m
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 862
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 13.5}
+        - {x: 14, y: 13.5}
+        - {x: -14, y: -13.5}
+      - - {x: -14, y: -13.5}
+        - {x: 14, y: 13.5}
+        - {x: 14, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_btn_ready_02
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 605
+        width: 166
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: -38}
+        - {x: -83, y: 45}
+        - {x: -70, y: -53}
+      - - {x: -68, y: 53}
+        - {x: -70, y: -53}
+        - {x: -83, y: 45}
+      - - {x: 83, y: -53}
+        - {x: -70, y: -53}
+        - {x: -68, y: 53}
+      - - {x: 63, y: 53}
+        - {x: 83, y: -53}
+        - {x: -68, y: 53}
+      - - {x: 83, y: 47}
+        - {x: 83, y: -53}
+        - {x: 63, y: 53}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_bonus
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 351
+        width: 91
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 13.5}
+        - {x: 45.5, y: 13.5}
+        - {x: -45.5, y: -13.5}
+      - - {x: -45.5, y: -13.5}
+        - {x: 45.5, y: 13.5}
+        - {x: 45.5, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_lose_l
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 804
+        width: 188
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: -31.5}
+        - {x: -94, y: 33.5}
+        - {x: -93, y: -33.5}
+      - - {x: -58, y: 33.5}
+        - {x: -93, y: -33.5}
+        - {x: -94, y: 33.5}
+      - - {x: -57, y: 9.5}
+        - {x: -93, y: -33.5}
+        - {x: -58, y: 33.5}
+      - - {x: 94, y: -33.5}
+        - {x: -93, y: -33.5}
+        - {x: -57, y: 9.5}
+      - - {x: -43, y: 33.5}
+        - {x: 94, y: -33.5}
+        - {x: -57, y: 9.5}
+      - - {x: 94, y: 33.5}
+        - {x: 94, y: -33.5}
+        - {x: -43, y: 33.5}
+      - - {x: -57, y: 9.5}
+        - {x: -58, y: 33.5}
+        - {x: -57, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_ace_01
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 790
+        width: 81
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -18}
+        - {x: -40.5, y: 18}
+        - {x: 40.5, y: -18}
+      - - {x: 40.5, y: 18}
+        - {x: 40.5, y: -18}
+        - {x: -40.5, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_btn_lv_up
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 354
+        width: 57
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 10}
+        - {x: 28.5, y: 10}
+        - {x: -28.5, y: -10}
+      - - {x: -28.5, y: -10}
+        - {x: 28.5, y: 10}
+        - {x: 28.5, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_yuruce_02
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 443
+        width: 162
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81, y: 22.5}
+        - {x: -81, y: 39.5}
+        - {x: -77, y: 6.5}
+      - - {x: 81, y: 39.5}
+        - {x: -77, y: 6.5}
+        - {x: -81, y: 39.5}
+      - - {x: -70, y: 1.5}
+        - {x: -77, y: 6.5}
+        - {x: 81, y: 39.5}
+      - - {x: 81, y: 1.5}
+        - {x: -70, y: 1.5}
+        - {x: 81, y: 39.5}
+      - - {x: -49, y: -34.5}
+        - {x: -49, y: -3.5}
+        - {x: -40, y: -39.5}
+      - - {x: -39, y: -2.5}
+        - {x: -40, y: -39.5}
+        - {x: -49, y: -3.5}
+      - - {x: 33, y: -39.5}
+        - {x: -40, y: -39.5}
+        - {x: -39, y: -2.5}
+      - - {x: 40, y: -2.5}
+        - {x: 33, y: -39.5}
+        - {x: -39, y: -2.5}
+      - - {x: 40, y: -16.5}
+        - {x: 33, y: -39.5}
+        - {x: 40, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_free
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 999
+        width: 95
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 12}
+        - {x: 47.5, y: 12}
+        - {x: -47.5, y: -12}
+      - - {x: -47.5, y: -12}
+        - {x: 47.5, y: 12}
+        - {x: 47.5, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_bignose_01
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 669
+        width: 123
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 3.5}
+        - {x: -61.5, y: 36.5}
+        - {x: -50.5, y: 0.5}
+      - - {x: -57.5, y: 39.5}
+        - {x: -50.5, y: 0.5}
+        - {x: -61.5, y: 36.5}
+      - - {x: 61.5, y: 39.5}
+        - {x: -50.5, y: 0.5}
+        - {x: -57.5, y: 39.5}
+      - - {x: 53.5, y: 0.5}
+        - {x: -50.5, y: 0.5}
+        - {x: 61.5, y: 39.5}
+      - - {x: 61.5, y: 5.5}
+        - {x: 53.5, y: 0.5}
+        - {x: 61.5, y: 39.5}
+      - - {x: -44.5, y: -19.5}
+        - {x: -44.5, y: -6.5}
+        - {x: -43.5, y: -32.5}
+      - - {x: -40.5, y: -2.5}
+        - {x: -43.5, y: -32.5}
+        - {x: -44.5, y: -6.5}
+      - - {x: -42.5, y: -37.5}
+        - {x: -43.5, y: -32.5}
+        - {x: -40.5, y: -2.5}
+      - - {x: -41.5, y: -39.5}
+        - {x: -42.5, y: -37.5}
+        - {x: -40.5, y: -2.5}
+      - - {x: 43.5, y: -39.5}
+        - {x: -41.5, y: -39.5}
+        - {x: -40.5, y: -2.5}
+      - - {x: 41.5, y: -2.5}
+        - {x: 43.5, y: -39.5}
+        - {x: -40.5, y: -2.5}
+      - - {x: 44.5, y: -3.5}
+        - {x: 43.5, y: -39.5}
+        - {x: 41.5, y: -2.5}
+      - - {x: 44.5, y: -31.5}
+        - {x: 43.5, y: -39.5}
+        - {x: 44.5, y: -3.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_lose_s
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 676
+        width: 69
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 13.5}
+        - {x: 34.5, y: 13.5}
+        - {x: -34.5, y: -13.5}
+      - - {x: -34.5, y: -13.5}
+        - {x: 34.5, y: 13.5}
+        - {x: 34.5, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_facebook_all_friends
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 540
+        width: 123
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: -31}
+        - {x: -61.5, y: 11}
+        - {x: 61.5, y: -31}
+      - - {x: -37.5, y: 31}
+        - {x: 61.5, y: -31}
+        - {x: -61.5, y: 11}
+      - - {x: 31.5, y: 31}
+        - {x: 61.5, y: -31}
+        - {x: -37.5, y: 31}
+      - - {x: 61.5, y: 1}
+        - {x: 61.5, y: -31}
+        - {x: 31.5, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_yuruce_01
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 743
+        width: 125
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 4}
+        - {x: -62.5, y: 38}
+        - {x: -60.5, y: 1}
+      - - {x: -61.5, y: 40}
+        - {x: -60.5, y: 1}
+        - {x: -62.5, y: 38}
+      - - {x: 55.5, y: 40}
+        - {x: -60.5, y: 1}
+        - {x: -61.5, y: 40}
+      - - {x: 56.5, y: 1}
+        - {x: -60.5, y: 1}
+        - {x: 55.5, y: 40}
+      - - {x: 57.5, y: 39}
+        - {x: 56.5, y: 1}
+        - {x: 55.5, y: 40}
+      - - {x: 62.5, y: 3}
+        - {x: 56.5, y: 1}
+        - {x: 57.5, y: 39}
+      - - {x: 62.5, y: 36}
+        - {x: 62.5, y: 3}
+        - {x: 57.5, y: 39}
+      - - {x: -51.5, y: -27}
+        - {x: -51.5, y: -6}
+        - {x: -47.5, y: -40}
+      - - {x: -46.5, y: -2}
+        - {x: -47.5, y: -40}
+        - {x: -51.5, y: -6}
+      - - {x: 50.5, y: -40}
+        - {x: -47.5, y: -40}
+        - {x: -46.5, y: -2}
+      - - {x: 41.5, y: -2}
+        - {x: 50.5, y: -40}
+        - {x: -46.5, y: -2}
+      - - {x: 51.5, y: -7}
+        - {x: 50.5, y: -40}
+        - {x: 41.5, y: -2}
+      - - {x: 51.5, y: -37}
+        - {x: 50.5, y: -40}
+        - {x: 51.5, y: -7}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_mental
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 684
+        width: 133
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 14}
+        - {x: 66.5, y: 14}
+        - {x: -66.5, y: -14}
+      - - {x: -66.5, y: -14}
+        - {x: 66.5, y: 14}
+        - {x: 66.5, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mini_game_down
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 645
+        width: 168
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: -25.5}
+        - {x: -84, y: 26.5}
+        - {x: -83, y: -26.5}
+      - - {x: 84, y: 26.5}
+        - {x: -83, y: -26.5}
+        - {x: -84, y: 26.5}
+      - - {x: 84, y: -26.5}
+        - {x: -83, y: -26.5}
+        - {x: 84, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mission_days
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 985
+        width: 288
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -7}
+        - {x: -30, y: 19}
+        - {x: -27, y: -19}
+      - - {x: 144, y: 19}
+        - {x: -27, y: -19}
+        - {x: -30, y: 19}
+      - - {x: 144, y: -19}
+        - {x: -27, y: -19}
+        - {x: 144, y: 19}
+      - - {x: -144, y: -19}
+        - {x: -144, y: 19}
+        - {x: -64, y: -19}
+      - - {x: -61, y: -13}
+        - {x: -64, y: -19}
+        - {x: -144, y: 19}
+      - - {x: -33, y: 19}
+        - {x: -61, y: -13}
+        - {x: -144, y: 19}
+      - - {x: -62, y: -16}
+        - {x: -64, y: -19}
+        - {x: -61, y: -13}
+      - - {x: -56, y: -19}
+        - {x: -61, y: -13}
+        - {x: -33, y: 19}
+      - - {x: -35, y: -19}
+        - {x: -56, y: -19}
+        - {x: -33, y: 19}
+      - - {x: -32, y: -12}
+        - {x: -35, y: -19}
+        - {x: -33, y: 19}
+      - - {x: -32, y: 16}
+        - {x: -32, y: -12}
+        - {x: -33, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_ingame_relay
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 499
+        width: 138
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -5.5}
+        - {x: 40, y: -3.5}
+        - {x: 41, y: -6.5}
+      - - {x: 41, y: -14.5}
+        - {x: 41, y: -7.5}
+        - {x: 44, y: -19.5}
+      - - {x: 41, y: -6.5}
+        - {x: 44, y: -19.5}
+        - {x: 41, y: -7.5}
+      - - {x: -69, y: -16.5}
+        - {x: -69, y: 18.5}
+        - {x: -66, y: -19.5}
+      - - {x: -68, y: 19.5}
+        - {x: -66, y: -19.5}
+        - {x: -69, y: 18.5}
+      - - {x: 6, y: 19.5}
+        - {x: -66, y: -19.5}
+        - {x: -68, y: 19.5}
+      - - {x: 10, y: 10.5}
+        - {x: -66, y: -19.5}
+        - {x: 6, y: 19.5}
+      - - {x: 38, y: -19.5}
+        - {x: -66, y: -19.5}
+        - {x: 10, y: 10.5}
+      - - {x: 9, y: 16.5}
+        - {x: 10, y: 10.5}
+        - {x: 6, y: 19.5}
+      - - {x: 11, y: 15.5}
+        - {x: 38, y: -19.5}
+        - {x: 10, y: 10.5}
+      - - {x: 13, y: 19.5}
+        - {x: 38, y: -19.5}
+        - {x: 11, y: 15.5}
+      - - {x: 40, y: -3.5}
+        - {x: 38, y: -19.5}
+        - {x: 13, y: 19.5}
+      - - {x: 69, y: 19.5}
+        - {x: 40, y: -3.5}
+        - {x: 13, y: 19.5}
+      - - {x: 40, y: -6.5}
+        - {x: 38, y: -19.5}
+        - {x: 40, y: -3.5}
+      - - {x: 40, y: -5.5}
+        - {x: 40, y: -6.5}
+        - {x: 40, y: -3.5}
+      - - {x: 41, y: -6.5}
+        - {x: 40, y: -3.5}
+        - {x: 69, y: 19.5}
+      - - {x: 44, y: -19.5}
+        - {x: 41, y: -6.5}
+        - {x: 69, y: 19.5}
+      - - {x: 58, y: -19.5}
+        - {x: 44, y: -19.5}
+        - {x: 69, y: 19.5}
+      - - {x: 66, y: -17.5}
+        - {x: 58, y: -19.5}
+        - {x: 69, y: 19.5}
+      - - {x: 69, y: 2.5}
+        - {x: 66, y: -17.5}
+        - {x: 69, y: 19.5}
+      - - {x: 38, y: -19.5}
+        - {x: 40, y: -6.5}
+        - {x: 41, y: -15.5}
+      - - {x: 41, y: -7.5}
+        - {x: 41, y: -15.5}
+        - {x: 40, y: -6.5}
+      - - {x: 41, y: -14.5}
+        - {x: 41, y: -15.5}
+        - {x: 41, y: -7.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_ingame_1st
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 523
+        width: 60
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 13}
+        - {x: 30, y: 13}
+        - {x: -30, y: -13}
+      - - {x: -30, y: -13}
+        - {x: 30, y: 13}
+        - {x: 30, y: -13}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_character
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 517
+        width: 161
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 14.5}
+        - {x: 80.5, y: 14.5}
+        - {x: -80.5, y: -14.5}
+      - - {x: -80.5, y: -14.5}
+        - {x: 80.5, y: 14.5}
+        - {x: 80.5, y: -14.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_hiphoper_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 851
+        width: 193
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -15.5}
+        - {x: 10.5, y: 17.5}
+        - {x: 14.5, y: -18.5}
+      - - {x: 11.5, y: 18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 10.5, y: 17.5}
+      - - {x: 96.5, y: 18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 11.5, y: 18.5}
+      - - {x: 94.5, y: -18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 96.5, y: 18.5}
+      - - {x: 96.5, y: -17.5}
+        - {x: 94.5, y: -18.5}
+        - {x: 96.5, y: 18.5}
+      - - {x: -96.5, y: -18.5}
+        - {x: -96.5, y: 6.5}
+        - {x: 9.5, y: -18.5}
+      - - {x: -95.5, y: 14.5}
+        - {x: 9.5, y: -18.5}
+        - {x: -96.5, y: 6.5}
+      - - {x: -90.5, y: 18.5}
+        - {x: 9.5, y: -18.5}
+        - {x: -95.5, y: 14.5}
+      - - {x: 5.5, y: 18.5}
+        - {x: 9.5, y: -18.5}
+        - {x: -90.5, y: 18.5}
+      - - {x: 9.5, y: 9.5}
+        - {x: 9.5, y: -18.5}
+        - {x: 5.5, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_gold
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 77
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 13.5}
+        - {x: 38.5, y: 13.5}
+        - {x: -38.5, y: -13.5}
+      - - {x: -38.5, y: -13.5}
+        - {x: 38.5, y: 13.5}
+        - {x: 38.5, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_free_jewelry
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 251
+        width: 116
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 3}
+        - {x: -4, y: 25}
+        - {x: 58, y: 3}
+      - - {x: 58, y: 25}
+        - {x: 58, y: 3}
+        - {x: -4, y: 25}
+      - - {x: -58, y: -25}
+        - {x: -58, y: -4}
+        - {x: 57, y: -25}
+      - - {x: -57, y: -3}
+        - {x: 57, y: -25}
+        - {x: -58, y: -4}
+      - - {x: 21, y: -14}
+        - {x: 57, y: -25}
+        - {x: -57, y: -3}
+      - - {x: 20, y: -5}
+        - {x: 21, y: -14}
+        - {x: -57, y: -3}
+      - - {x: 21, y: -5}
+        - {x: 57, y: -25}
+        - {x: 21, y: -14}
+      - - {x: 23, y: -3}
+        - {x: 57, y: -25}
+        - {x: 21, y: -5}
+      - - {x: 58, y: -3}
+        - {x: 57, y: -25}
+        - {x: 23, y: -3}
+      - - {x: 58, y: -16}
+        - {x: 57, y: -25}
+        - {x: 58, y: -3}
+      - - {x: 20, y: -5}
+        - {x: -57, y: -3}
+        - {x: 20, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_coming_soon_01
+      rect:
+        serializedVersion: 2
+        x: 405.0268
+        y: 549.0267
+        width: 162.9465
+        height: 88.9465
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.5, y: -12.5}
+        - {x: -81.5, y: 44.5}
+        - {x: -66.5, y: -44.5}
+      - - {x: 81.5, y: 44.5}
+        - {x: -66.5, y: -44.5}
+        - {x: -81.5, y: 44.5}
+      - - {x: 75.5, y: -44.5}
+        - {x: -66.5, y: -44.5}
+        - {x: 81.5, y: 44.5}
+      - - {x: 81.5, y: -26.5}
+        - {x: 75.5, y: -44.5}
+        - {x: 81.5, y: 44.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_move
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 419
+        width: 132
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: -17}
+        - {x: -66, y: 18}
+        - {x: -65, y: -19}
+      - - {x: -65, y: 19}
+        - {x: -65, y: -19}
+        - {x: -66, y: 18}
+      - - {x: 65, y: -19}
+        - {x: -65, y: -19}
+        - {x: -65, y: 19}
+      - - {x: 66, y: 19}
+        - {x: 65, y: -19}
+        - {x: -65, y: 19}
+      - - {x: 66, y: -18}
+        - {x: 65, y: -19}
+        - {x: 66, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_popup_use
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 336
+        width: 89
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -13}
+        - {x: -44.5, y: 19}
+        - {x: -39.5, y: -19}
+      - - {x: 44.5, y: 19}
+        - {x: -39.5, y: -19}
+        - {x: -44.5, y: 19}
+      - - {x: 43.5, y: -19}
+        - {x: -39.5, y: -19}
+        - {x: 44.5, y: 19}
+      - - {x: 44.5, y: -18}
+        - {x: 43.5, y: -19}
+        - {x: 44.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_US_money
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 820
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 20}
+        - {x: 12.5, y: 20}
+        - {x: -12.5, y: -20}
+      - - {x: -12.5, y: -20}
+        - {x: 12.5, y: 20}
+        - {x: 12.5, y: -20}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_ace_03
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 830
+        width: 174
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -14}
+        - {x: -8, y: 11}
+        - {x: -4, y: -18}
+      - - {x: -5, y: 18}
+        - {x: -4, y: -18}
+        - {x: -8, y: 11}
+      - - {x: 87, y: 18}
+        - {x: -4, y: -18}
+        - {x: -5, y: 18}
+      - - {x: 87, y: -18}
+        - {x: -4, y: -18}
+        - {x: 87, y: 18}
+      - - {x: -87, y: -15}
+        - {x: -87, y: 16}
+        - {x: -84, y: -18}
+      - - {x: -86, y: 18}
+        - {x: -84, y: -18}
+        - {x: -87, y: 16}
+      - - {x: -9, y: 18}
+        - {x: -84, y: -18}
+        - {x: -86, y: 18}
+      - - {x: -16, y: -18}
+        - {x: -84, y: -18}
+        - {x: -9, y: 18}
+      - - {x: -9, y: -5}
+        - {x: -16, y: -18}
+        - {x: -9, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_full
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 301
+        width: 89
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -16.5}
+        - {x: -44.5, y: 16.5}
+        - {x: 44.5, y: -16.5}
+      - - {x: 44.5, y: 16.5}
+        - {x: 44.5, y: -16.5}
+        - {x: -44.5, y: 16.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mini_game_up
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 386
+        width: 78
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -15}
+        - {x: -39, y: 26}
+        - {x: -33, y: -26}
+      - - {x: 31, y: 26}
+        - {x: -33, y: -26}
+        - {x: -39, y: 26}
+      - - {x: 26, y: -26}
+        - {x: -33, y: -26}
+        - {x: 31, y: 26}
+      - - {x: 39, y: -15}
+        - {x: 26, y: -26}
+        - {x: 31, y: 26}
+      - - {x: 39, y: 20}
+        - {x: 39, y: -15}
+        - {x: 31, y: 26}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_mini_game_slide
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 462
+        width: 154
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: -21.5}
+        - {x: -77, y: 26.5}
+        - {x: -76, y: -26.5}
+      - - {x: 77, y: 26.5}
+        - {x: -76, y: -26.5}
+        - {x: -77, y: 26.5}
+      - - {x: 77, y: -26.5}
+        - {x: -76, y: -26.5}
+        - {x: 77, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_result_score
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 780
+        width: 173
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.5, y: -16}
+        - {x: -86.5, y: 24}
+        - {x: -82.5, y: -24}
+      - - {x: 86.5, y: 24}
+        - {x: -82.5, y: -24}
+        - {x: -86.5, y: 24}
+      - - {x: 85.5, y: -24}
+        - {x: -82.5, y: -24}
+        - {x: 86.5, y: 24}
+      - - {x: 86.5, y: -22}
+        - {x: 85.5, y: -24}
+        - {x: 86.5, y: 24}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_Preference_on
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 705
+        width: 60
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -15}
+        - {x: -30, y: 18}
+        - {x: -28, y: -19}
+      - - {x: -27, y: 19}
+        - {x: -28, y: -19}
+        - {x: -30, y: 18}
+      - - {x: 30, y: -19}
+        - {x: -28, y: -19}
+        - {x: -27, y: 19}
+      - - {x: 30, y: 19}
+        - {x: 30, y: -19}
+        - {x: -27, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_btn_ch_shop
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 498
+        width: 60
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 11.5}
+        - {x: 30, y: 11.5}
+        - {x: -30, y: -11.5}
+      - - {x: -30, y: -11.5}
+        - {x: 30, y: 11.5}
+        - {x: 30, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_Preference_off
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 750
+        width: 80
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -15}
+        - {x: 12, y: -14}
+        - {x: 12, y: -16}
+      - - {x: 16, y: -19}
+        - {x: 12, y: -16}
+        - {x: 12, y: -14}
+      - - {x: -40, y: -19}
+        - {x: -40, y: 19}
+        - {x: 10, y: -19}
+      - - {x: 11, y: -14}
+        - {x: 10, y: -19}
+        - {x: -40, y: 19}
+      - - {x: 40, y: 19}
+        - {x: 11, y: -14}
+        - {x: -40, y: 19}
+      - - {x: 11, y: -16}
+        - {x: 10, y: -19}
+        - {x: 11, y: -14}
+      - - {x: 12, y: -14}
+        - {x: 11, y: -14}
+        - {x: 40, y: 19}
+      - - {x: 16, y: -19}
+        - {x: 12, y: -14}
+        - {x: 40, y: 19}
+      - - {x: 31, y: -19}
+        - {x: 16, y: -19}
+        - {x: 40, y: 19}
+      - - {x: 40, y: -10}
+        - {x: 31, y: -19}
+        - {x: 40, y: 19}
+      - - {x: 12, y: -15}
+        - {x: 11, y: -14}
+        - {x: 12, y: -14}
+      - - {x: 11, y: -16}
+        - {x: 11, y: -14}
+        - {x: 12, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_btn_ready_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 608
+        width: 166
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83, y: -38}
+        - {x: -83, y: 45}
+        - {x: -70, y: -53}
+      - - {x: -68, y: 53}
+        - {x: -70, y: -53}
+        - {x: -83, y: 45}
+      - - {x: 83, y: -53}
+        - {x: -70, y: -53}
+        - {x: -68, y: 53}
+      - - {x: 63, y: 53}
+        - {x: 83, y: -53}
+        - {x: -68, y: 53}
+      - - {x: 83, y: 47}
+        - {x: 83, y: -53}
+        - {x: 63, y: 53}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: language_main_name_helmet
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 429
+        width: 137
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: 14}
+        - {x: 68.5, y: 14}
+        - {x: -68.5, y: -14}
+      - - {x: -68.5, y: -14}
+        - {x: 68.5, y: 14}
+        - {x: 68.5, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

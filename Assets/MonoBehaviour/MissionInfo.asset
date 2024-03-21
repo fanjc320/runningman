@@ -1,0 +1,1476 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 546f3b99c0c4baaf873ad32cf9b1a80b, type: 3}
+  m_Name: "MissionInfo"
+  m_EditorClassIdentifier: 
+  sheetName: "RunningStar"
+  worksheetName: "MissionInfo"
+  dataArray:
+  - id: "0"
+    name1loc: "\uC811\uC18D\uBCF4\uC0C11"
+    desc1loc: "87"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "1"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "launchgame"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "1"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC7851"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "0"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "2"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC7852"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "3"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC7853"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "2"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "4"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC7854"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "3"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "5"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC7855"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "4"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "6"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC7856"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "5"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "7"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC7857"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "6"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "8"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC7858"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "7"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "9"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC7859"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "0"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "10"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC78510"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "11"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC78511"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "2"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "12"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC78512"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "3"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "13"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC78513"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "4"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "14"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC78514"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "5"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "15"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC78515"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "6"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "16"
+    name1loc: "\uC544\uC774\uD15C \uAD6C\uC78516"
+    desc1loc: "74"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "buystartitem"
+    - "7"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "17"
+    name1loc: "\uB808\uC774\uC2A41"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "2"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "0"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 320000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "18"
+    name1loc: "\uB808\uC774\uC2A42"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "0"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "19"
+    name1loc: "\uB808\uC774\uC2A43"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "4"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "0"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "20"
+    name1loc: "\uB808\uC774\uC2A44"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "0"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 2C0100000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "21"
+    name1loc: "\uB808\uC774\uC2A45"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "8"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "0"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 900100000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "22"
+    name1loc: "\uB808\uC774\uC2A46"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "10"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "0"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: F40100000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "23"
+    name1loc: "\uBBF8\uC158 \uB808\uC774\uC2A41"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "24"
+    name1loc: "\uBBF8\uC158 \uB808\uC774\uC2A42"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "25"
+    name1loc: "\uBBF8\uC158 \uB808\uC774\uC2A43"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "10"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 2C0100000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "26"
+    name1loc: "\uBA40\uD2F0 \uB808\uC774\uC2A41"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "2"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "27"
+    name1loc: "\uBA40\uD2F0 \uB808\uC774\uC2A42"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "2"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 2C0100000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "28"
+    name1loc: "\uBA40\uD2F0 \uB808\uC774\uC2A43"
+    desc1loc: "76"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "10"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "playgamemode"
+    - "2"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: F40100000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "29"
+    name1loc: "\uACE8\uB4DC \uC218\uC9D11"
+    desc1loc: "77"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "1000"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "getgold"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "30"
+    name1loc: "\uACE8\uB4DC \uC218\uC9D12"
+    desc1loc: "77"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "2000"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "getgold"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "31"
+    name1loc: "\uACE8\uB4DC \uC218\uC9D13"
+    desc1loc: "77"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3000"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "getgold"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000003000000
+    platform: "none"
+    comment: "comment"
+  - id: "32"
+    name1loc: "\uAC70\uB9AC1"
+    desc1loc: "78"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "amount"
+    goalvalue: "2000"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "runamount"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 320000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "33"
+    name1loc: "\uAC70\uB9AC2"
+    desc1loc: "78"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "amount"
+    goalvalue: "3000"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "runamount"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "34"
+    name1loc: "\uAC70\uB9AC3"
+    desc1loc: "78"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "amount"
+    goalvalue: "4000"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "runamount"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 960000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "35"
+    name1loc: "\uAC70\uB9AC4"
+    desc1loc: "78"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "amount"
+    goalvalue: "5000"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "runamount"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "36"
+    name1loc: "\uAC70\uB9AC5"
+    desc1loc: "78"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "amount"
+    goalvalue: "10000"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "runamount"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 2C0100000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "37"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC1"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "1"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "0"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "38"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC2"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "1"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "39"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC3"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "1"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "2"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "40"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC4"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "1"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "3"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "41"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC5"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "1"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "4"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "42"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC6"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "1"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "5"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "43"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC7"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "0"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "44"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC8"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "45"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC9"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "2"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "46"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC10"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "3"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "47"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC11"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "4"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "48"
+    name1loc: "\uC5C5\uADF8\uB798\uC774\uB4DC12"
+    desc1loc: "79"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "upgradeparam"
+    - "5"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "49"
+    name1loc: "\uD53C\uBC841"
+    desc1loc: "80"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dofever"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "50"
+    name1loc: "\uD53C\uBC842"
+    desc1loc: "80"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dofever"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "51"
+    name1loc: "\uD53C\uBC843"
+    desc1loc: "80"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "10"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dofever"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 2C0100000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "52"
+    name1loc: "\uBBF8\uC2A4\uD130\uB9AC1"
+    desc1loc: "81"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "getmystery"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "53"
+    name1loc: "\uBBF8\uC2A4\uD130\uB9AC2"
+    desc1loc: "81"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "10"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "getmystery"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "54"
+    name1loc: "\uBBF8\uC2A4\uD130\uB9AC3"
+    desc1loc: "81"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "15"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "getmystery"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 2C0100000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "55"
+    name1loc: "\uC774\uB984\uD45C \uB72F\uAE301"
+    desc1loc: "82"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "doplucksticker"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "56"
+    name1loc: "\uC774\uB984\uD45C \uB72F\uAE302"
+    desc1loc: "82"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "6"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "doplucksticker"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "57"
+    name1loc: "\uC774\uB984\uD45C \uB72F\uAE303"
+    desc1loc: "82"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "9"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "doplucksticker"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 2C0100000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "58"
+    name1loc: "\uBCF4\uB108\uC2A4 \uC0C1\uC7901"
+    desc1loc: "83"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "1"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dogiftbox"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "59"
+    name1loc: "\uBCF4\uB108\uC2A4 \uC0C1\uC7902"
+    desc1loc: "83"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dogiftbox"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "60"
+    name1loc: "\uB79C\uB364 \uB808\uBCA8\uC5C51"
+    desc1loc: "84"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "1"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dorandomlvlup"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 640000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "61"
+    name1loc: "\uB79C\uB364 \uB808\uBCA8\uC5C52"
+    desc1loc: "84"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "3"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dorandomlvlup"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: C80000000000000000000000
+    platform: "none"
+    comment: "comment"
+  - id: "62"
+    name1loc: "\uC810\uD5041"
+    desc1loc: "85"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dojumpobstacle"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "63"
+    name1loc: "\uC810\uD5042"
+    desc1loc: "85"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "10"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dojumpobstacle"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "64"
+    name1loc: "\uC810\uD5043"
+    desc1loc: "85"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "15"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dojumpobstacle"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "65"
+    name1loc: "\uC810\uD5044"
+    desc1loc: "85"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "20"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dojumpobstacle"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "66"
+    name1loc: "\uC810\uD5045"
+    desc1loc: "85"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "30"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dojumpobstacle"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000003000000
+    platform: "none"
+    comment: "comment"
+  - id: "67"
+    name1loc: "\uAD6C\uB974\uAE301"
+    desc1loc: "86"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "5"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dorollobstacle"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "68"
+    name1loc: "\uAD6C\uB974\uAE302"
+    desc1loc: "86"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "10"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dorollobstacle"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000001000000
+    platform: "none"
+    comment: "comment"
+  - id: "69"
+    name1loc: "\uAD6C\uB974\uAE303"
+    desc1loc: "86"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "15"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dorollobstacle"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "70"
+    name1loc: "\uAD6C\uB974\uAE304"
+    desc1loc: "86"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "20"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dorollobstacle"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000002000000
+    platform: "none"
+    comment: "comment"
+  - id: "71"
+    name1loc: "\uAD6C\uB974\uAE305"
+    desc1loc: "86"
+    missionnameimagepath: "language_mission_days"
+    type: "daily"
+    goaltype: "number"
+    goalvalue: "30"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "dorollobstacle"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000000000003000000
+    platform: "none"
+    comment: "comment"
+  - id: "72"
+    name1loc: "\uCE90\uB9AD\uD130\uCF54\uC778 \uD68D\uB4DD"
+    desc1loc: "89"
+    missionnameimagepath: "language_mission_repeat"
+    type: "repeatly"
+    goaltype: "chcoins"
+    goalvalue: "1"
+    goalconditionalkeys:
+    - "type"
+    - "typeid"
+    goalconditionalvalues:
+    - "getchcoin"
+    - "-1"
+    presentkeys:
+    - "gold"
+    - "gem"
+    - "nametag"
+    presentvalues: 000000000100000000000000
+    platform: "none"
+    comment: "comment"

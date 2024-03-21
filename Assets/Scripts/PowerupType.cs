@@ -1,0 +1,23 @@
+public enum PowerupType
+{
+	_notset,
+	hoverboard,
+	headstart500,
+	headstart2000,
+	mysterybox,
+	supermysterybox,
+	jetpack,
+	supersneakers,
+	coinmagnet,
+	letters,
+	doubleMultiplier,
+	skipmission1,
+	skipmission2,
+	skipmission3,
+	doubleCoins,
+	scorebooster,
+	easteregg,
+	saveMeToken,
+	confuse,
+	doubleCoin
+}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03add24f0bc22cf3390529051ffd1248, type: 3}
+  m_Name: "PlayerParameterInfo"
+  m_EditorClassIdentifier: 
+  sheetName: "RunningStar"
+  worksheetName: "PlayerParameterInfo"
+  dataArray:
+  - id: "0"
+    name1loc: "4"
+    desc1loc: "\uC2A4\uD0C0\uD2B8 \uD53C\uBC84"
+    iconpath: "iconpath"
+    maxlevel: 50
+  - id: "1"
+    name1loc: "5"
+    desc1loc: "\uD53C\uBC84\uC2DC\uAC04"
+    iconpath: "iconpath"
+    maxlevel: 50
+  - id: "2"
+    name1loc: "6"
+    desc1loc: "\uC790\uC11D\uC2DC\uAC04"
+    iconpath: "iconpath"
+    maxlevel: 50
+  - id: "3"
+    name1loc: "7"
+    desc1loc: "\uB354\uBE14\uC2DC\uAC04"
+    iconpath: "iconpath"
+    maxlevel: 50
+  - id: "4"
+    name1loc: "8"
+    desc1loc: "\uC810\uC218\uBCF4\uB108\uC2A4"
+    iconpath: "iconpath"
+    maxlevel: 50
+  - id: "5"
+    name1loc: "9"
+    desc1loc: "\uACE8\uB4DC\uBCF4\uB108\uC2A4"
+    iconpath: "iconpath"
+    maxlevel: 50

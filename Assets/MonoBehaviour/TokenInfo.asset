@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4e1176dcb1d241bcb49b180cc57c522, type: 3}
+  m_Name: "TokenInfo"
+  m_EditorClassIdentifier: 
+  sheetName: "RunningStar"
+  worksheetName: "TokenInfo"
+  dataArray:
+  - id: "0"
+    name1loc: "147"
+    desc1loc: "\uC655\uCF54\uC758 \uC548\uACBD"
+    iconpath: "TokenIcon\x2fmain_item_glasses"
+    comment: "muse increase index from 0."
+  - id: "1"
+    name1loc: "150"
+    desc1loc: "\uBC30\uC2E0\uC790\uC758 \uD0C8"
+    iconpath: "TokenIcon\x2fmain_item_giraffe"
+    comment: "comment"
+  - id: "2"
+    name1loc: "145"
+    desc1loc: "\uC720\uB974\uC2A4\uC758 \uBB3C\uCD1D"
+    iconpath: "TokenIcon\x2fmain_item_gun"
+    comment: "comment"
+  - id: "3"
+    name1loc: "148"
+    desc1loc: "\uC2A4\uD30C\uB974\uD0C0\uC758 \uC544\uB839"
+    iconpath: "TokenIcon\x2fmain_item_dumbbell"
+    comment: "comment"
+  - id: "4"
+    name1loc: "149"
+    desc1loc: "\uC5D0\uC774\uC2A4\uC758 \uBCA0\uAC1C"
+    iconpath: "TokenIcon\x2fmain_item_pillow"
+    comment: "comment"
+  - id: "5"
+    name1loc: "146"
+    desc1loc: "\uD558\uB85C\uB85C\uC758 \uB9C8\uC774\uD06C"
+    iconpath: "TokenIcon\x2fmain_item_MIC"
+    comment: "comment"
+  - id: "6"
+    name1loc: "151"
+    desc1loc: "\uD799\uD569\uBCF4\uC774\uC758 \uBAA8\uC790"
+    iconpath: "TokenIcon\x2fmain_item_hat"
+    comment: "comment"

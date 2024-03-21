@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f38042c085492d4e6dba0282294cd3d, type: 3}
+  m_Name: "Bonusbox"
+  m_EditorClassIdentifier: 
+  sheetName: "RunningStar"
+  worksheetName: "Bonusbox"
+  dataArray:
+  - id: "0"
+    name1loc: "\uD1A0\uD07001"
+    type: "token"
+    pvalue: "0"
+    probability: 3
+    modelname: "gift_glasses"
+    comment: 
+  - id: "1"
+    name1loc: "\uD1A0\uD07002"
+    type: "token"
+    pvalue: "1"
+    probability: 2
+    modelname: "gift_giraffe"
+    comment: 
+  - id: "2"
+    name1loc: "\uD1A0\uD07003"
+    type: "token"
+    pvalue: "2"
+    probability: 2
+    modelname: "gift_pistol"
+    comment: 
+  - id: "3"
+    name1loc: "\uD1A0\uD07004"
+    type: "token"
+    pvalue: "3"
+    probability: 3
+    modelname: "gift_dumbbell"
+    comment: 
+  - id: "4"
+    name1loc: "\uD1A0\uD07005"
+    type: "token"
+    pvalue: "4"
+    probability: 2
+    modelname: "gift_pillows"
+    comment: 
+  - id: "5"
+    name1loc: "\uD1A0\uD07006"
+    type: "token"
+    pvalue: "5"
+    probability: 3
+    modelname: "gift_mike"
+    comment: 
+  - id: "6"
+    name1loc: "\uD1A0\uD07007"
+    type: "token"
+    pvalue: "6"
+    probability: 3
+    modelname: "gift_cap"
+    comment: 
+  - id: "7"
+    name1loc: "\uBCF4\uC11D1"
+    type: "jewel"
+    pvalue: "1"
+    probability: 15
+    modelname: "gifts_jewelry"
+    comment: 
+  - id: "8"
+    name1loc: "\uBCF4\uC11D2"
+    type: "jewel"
+    pvalue: "2"
+    probability: 5
+    modelname: "gifts_jewelry"
+    comment: 
+  - id: "9"
+    name1loc: "\uAE08\uD654500"
+    type: "gold"
+    pvalue: "300"
+    probability: 80
+    modelname: "gifts_gold_coin"
+    comment: 
+  - id: "10"
+    name1loc: "\uAE08\uD6541000"
+    type: "gold"
+    pvalue: "500"
+    probability: 60
+    modelname: "gifts_gold_coin"
+    comment: 
+  - id: "11"
+    name1loc: "\uAE08\uD6542000"
+    type: "gold"
+    pvalue: "800"
+    probability: 40
+    modelname: "gifts_gold_coin"
+    comment: 
+  - id: "12"
+    name1loc: "\uAE08\uD6545000"
+    type: "gold"
+    pvalue: "1000"
+    probability: 20
+    modelname: "gifts_gold_coin"
+    comment: 
+  - id: "13"
+    name1loc: "\uD2F0\uCF133"
+    type: "ticket"
+    pvalue: "1"
+    probability: 50
+    modelname: "gifts_game_coin"
+    comment: "\uAE30\uC874 : 3, 5"
+  - id: "14"
+    name1loc: "\uD2F0\uCF135"
+    type: "ticket"
+    pvalue: "3"
+    probability: 30
+    modelname: "gifts_game_coin"
+    comment: 

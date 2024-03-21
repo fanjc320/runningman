@@ -1,0 +1,1216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ee850c606d6d0573ec52dd7c8017e49, type: 3}
+  m_Name: "PlayerParameterLevel"
+  m_EditorClassIdentifier: 
+  sheetName: "RunningStar"
+  worksheetName: "PlayerParameterLevel"
+  dataArray:
+  - id: "0"
+    infoid: "0"
+    requiregold: 50
+    pvalue: 0.01
+  - id: "1"
+    infoid: "0"
+    requiregold: 100
+    pvalue: 0.02
+  - id: "2"
+    infoid: "0"
+    requiregold: 150
+    pvalue: 0.03
+  - id: "3"
+    infoid: "0"
+    requiregold: 200
+    pvalue: 0.04
+  - id: "4"
+    infoid: "0"
+    requiregold: 250
+    pvalue: 0.05
+  - id: "5"
+    infoid: "0"
+    requiregold: 300
+    pvalue: 0.06
+  - id: "6"
+    infoid: "0"
+    requiregold: 350
+    pvalue: 0.07
+  - id: "7"
+    infoid: "0"
+    requiregold: 400
+    pvalue: 0.08
+  - id: "8"
+    infoid: "0"
+    requiregold: 450
+    pvalue: 0.09
+  - id: "9"
+    infoid: "0"
+    requiregold: 500
+    pvalue: 0.1
+  - id: "10"
+    infoid: "0"
+    requiregold: 600
+    pvalue: 0.11
+  - id: "11"
+    infoid: "0"
+    requiregold: 700
+    pvalue: 0.12
+  - id: "12"
+    infoid: "0"
+    requiregold: 800
+    pvalue: 0.13
+  - id: "13"
+    infoid: "0"
+    requiregold: 900
+    pvalue: 0.14
+  - id: "14"
+    infoid: "0"
+    requiregold: 1000
+    pvalue: 0.15
+  - id: "15"
+    infoid: "0"
+    requiregold: 1100
+    pvalue: 0.16
+  - id: "16"
+    infoid: "0"
+    requiregold: 1200
+    pvalue: 0.17
+  - id: "17"
+    infoid: "0"
+    requiregold: 1300
+    pvalue: 0.18
+  - id: "18"
+    infoid: "0"
+    requiregold: 1400
+    pvalue: 0.19
+  - id: "19"
+    infoid: "0"
+    requiregold: 1500
+    pvalue: 0.2
+  - id: "20"
+    infoid: "0"
+    requiregold: 1600
+    pvalue: 0.21
+  - id: "21"
+    infoid: "0"
+    requiregold: 1700
+    pvalue: 0.22
+  - id: "22"
+    infoid: "0"
+    requiregold: 1800
+    pvalue: 0.23
+  - id: "23"
+    infoid: "0"
+    requiregold: 1900
+    pvalue: 0.24
+  - id: "24"
+    infoid: "0"
+    requiregold: 2000
+    pvalue: 0.25
+  - id: "25"
+    infoid: "0"
+    requiregold: 2200
+    pvalue: 0.27
+  - id: "26"
+    infoid: "0"
+    requiregold: 2400
+    pvalue: 0.29
+  - id: "27"
+    infoid: "0"
+    requiregold: 2600
+    pvalue: 0.31
+  - id: "28"
+    infoid: "0"
+    requiregold: 2800
+    pvalue: 0.33
+  - id: "29"
+    infoid: "0"
+    requiregold: 3000
+    pvalue: 0.35
+  - id: "30"
+    infoid: "0"
+    requiregold: 3200
+    pvalue: 0.37
+  - id: "31"
+    infoid: "0"
+    requiregold: 3400
+    pvalue: 0.39
+  - id: "32"
+    infoid: "0"
+    requiregold: 3600
+    pvalue: 0.41
+  - id: "33"
+    infoid: "0"
+    requiregold: 3800
+    pvalue: 0.43
+  - id: "34"
+    infoid: "0"
+    requiregold: 4000
+    pvalue: 0.45
+  - id: "35"
+    infoid: "0"
+    requiregold: 4500
+    pvalue: 0.47
+  - id: "36"
+    infoid: "0"
+    requiregold: 5000
+    pvalue: 0.49
+  - id: "37"
+    infoid: "0"
+    requiregold: 5500
+    pvalue: 0.51
+  - id: "38"
+    infoid: "0"
+    requiregold: 6000
+    pvalue: 0.53
+  - id: "39"
+    infoid: "0"
+    requiregold: 6500
+    pvalue: 0.55
+  - id: "40"
+    infoid: "0"
+    requiregold: 7000
+    pvalue: 0.57
+  - id: "41"
+    infoid: "0"
+    requiregold: 7500
+    pvalue: 0.59
+  - id: "42"
+    infoid: "0"
+    requiregold: 8000
+    pvalue: 0.61
+  - id: "43"
+    infoid: "0"
+    requiregold: 8500
+    pvalue: 0.63
+  - id: "44"
+    infoid: "0"
+    requiregold: 9000
+    pvalue: 0.65
+  - id: "45"
+    infoid: "0"
+    requiregold: 9500
+    pvalue: 0.67
+  - id: "46"
+    infoid: "0"
+    requiregold: 10000
+    pvalue: 0.69
+  - id: "47"
+    infoid: "0"
+    requiregold: 12000
+    pvalue: 0.71
+  - id: "48"
+    infoid: "0"
+    requiregold: 15000
+    pvalue: 0.73
+  - id: "49"
+    infoid: "0"
+    requiregold: 20000
+    pvalue: 0.75
+  - id: "50"
+    infoid: "1"
+    requiregold: 50
+    pvalue: 0.12
+  - id: "51"
+    infoid: "1"
+    requiregold: 100
+    pvalue: 0.16
+  - id: "52"
+    infoid: "1"
+    requiregold: 150
+    pvalue: 0.24
+  - id: "53"
+    infoid: "1"
+    requiregold: 200
+    pvalue: 0.32
+  - id: "54"
+    infoid: "1"
+    requiregold: 250
+    pvalue: 0.4
+  - id: "55"
+    infoid: "1"
+    requiregold: 300
+    pvalue: 0.48
+  - id: "56"
+    infoid: "1"
+    requiregold: 350
+    pvalue: 0.56
+  - id: "57"
+    infoid: "1"
+    requiregold: 400
+    pvalue: 0.64
+  - id: "58"
+    infoid: "1"
+    requiregold: 450
+    pvalue: 0.72
+  - id: "59"
+    infoid: "1"
+    requiregold: 500
+    pvalue: 0.8
+  - id: "60"
+    infoid: "1"
+    requiregold: 600
+    pvalue: 0.88
+  - id: "61"
+    infoid: "1"
+    requiregold: 700
+    pvalue: 0.96
+  - id: "62"
+    infoid: "1"
+    requiregold: 800
+    pvalue: 1.04
+  - id: "63"
+    infoid: "1"
+    requiregold: 900
+    pvalue: 1.12
+  - id: "64"
+    infoid: "1"
+    requiregold: 1000
+    pvalue: 1.2
+  - id: "65"
+    infoid: "1"
+    requiregold: 1100
+    pvalue: 1.28
+  - id: "66"
+    infoid: "1"
+    requiregold: 1200
+    pvalue: 1.36
+  - id: "67"
+    infoid: "1"
+    requiregold: 1300
+    pvalue: 1.44
+  - id: "68"
+    infoid: "1"
+    requiregold: 1400
+    pvalue: 1.52
+  - id: "69"
+    infoid: "1"
+    requiregold: 1500
+    pvalue: 1.6
+  - id: "70"
+    infoid: "1"
+    requiregold: 1600
+    pvalue: 1.68
+  - id: "71"
+    infoid: "1"
+    requiregold: 1700
+    pvalue: 1.76
+  - id: "72"
+    infoid: "1"
+    requiregold: 1800
+    pvalue: 1.84
+  - id: "73"
+    infoid: "1"
+    requiregold: 1900
+    pvalue: 1.92
+  - id: "74"
+    infoid: "1"
+    requiregold: 2000
+    pvalue: 2
+  - id: "75"
+    infoid: "1"
+    requiregold: 2200
+    pvalue: 2.08
+  - id: "76"
+    infoid: "1"
+    requiregold: 2400
+    pvalue: 2.16
+  - id: "77"
+    infoid: "1"
+    requiregold: 2600
+    pvalue: 2.24
+  - id: "78"
+    infoid: "1"
+    requiregold: 2800
+    pvalue: 2.32
+  - id: "79"
+    infoid: "1"
+    requiregold: 3000
+    pvalue: 2.4
+  - id: "80"
+    infoid: "1"
+    requiregold: 3200
+    pvalue: 2.48
+  - id: "81"
+    infoid: "1"
+    requiregold: 3400
+    pvalue: 2.56
+  - id: "82"
+    infoid: "1"
+    requiregold: 3600
+    pvalue: 2.64
+  - id: "83"
+    infoid: "1"
+    requiregold: 3800
+    pvalue: 2.72
+  - id: "84"
+    infoid: "1"
+    requiregold: 4000
+    pvalue: 2.8
+  - id: "85"
+    infoid: "1"
+    requiregold: 4500
+    pvalue: 2.88
+  - id: "86"
+    infoid: "1"
+    requiregold: 5000
+    pvalue: 2.96
+  - id: "87"
+    infoid: "1"
+    requiregold: 5500
+    pvalue: 3.04
+  - id: "88"
+    infoid: "1"
+    requiregold: 6000
+    pvalue: 3.12
+  - id: "89"
+    infoid: "1"
+    requiregold: 6500
+    pvalue: 3.2
+  - id: "90"
+    infoid: "1"
+    requiregold: 7000
+    pvalue: 3.28
+  - id: "91"
+    infoid: "1"
+    requiregold: 7500
+    pvalue: 3.36
+  - id: "92"
+    infoid: "1"
+    requiregold: 8000
+    pvalue: 3.44
+  - id: "93"
+    infoid: "1"
+    requiregold: 8500
+    pvalue: 3.52
+  - id: "94"
+    infoid: "1"
+    requiregold: 9000
+    pvalue: 3.6
+  - id: "95"
+    infoid: "1"
+    requiregold: 9500
+    pvalue: 3.68
+  - id: "96"
+    infoid: "1"
+    requiregold: 10000
+    pvalue: 3.76
+  - id: "97"
+    infoid: "1"
+    requiregold: 12000
+    pvalue: 3.84
+  - id: "98"
+    infoid: "1"
+    requiregold: 15000
+    pvalue: 3.92
+  - id: "99"
+    infoid: "1"
+    requiregold: 20000
+    pvalue: 4
+  - id: "100"
+    infoid: "2"
+    requiregold: 50
+    pvalue: 0.16
+  - id: "101"
+    infoid: "2"
+    requiregold: 100
+    pvalue: 0.32
+  - id: "102"
+    infoid: "2"
+    requiregold: 150
+    pvalue: 0.48
+  - id: "103"
+    infoid: "2"
+    requiregold: 200
+    pvalue: 0.64
+  - id: "104"
+    infoid: "2"
+    requiregold: 250
+    pvalue: 0.8
+  - id: "105"
+    infoid: "2"
+    requiregold: 300
+    pvalue: 0.96
+  - id: "106"
+    infoid: "2"
+    requiregold: 350
+    pvalue: 1.12
+  - id: "107"
+    infoid: "2"
+    requiregold: 400
+    pvalue: 1.28
+  - id: "108"
+    infoid: "2"
+    requiregold: 450
+    pvalue: 1.44
+  - id: "109"
+    infoid: "2"
+    requiregold: 500
+    pvalue: 1.6
+  - id: "110"
+    infoid: "2"
+    requiregold: 600
+    pvalue: 1.76
+  - id: "111"
+    infoid: "2"
+    requiregold: 700
+    pvalue: 1.92
+  - id: "112"
+    infoid: "2"
+    requiregold: 800
+    pvalue: 2.08
+  - id: "113"
+    infoid: "2"
+    requiregold: 900
+    pvalue: 2.24
+  - id: "114"
+    infoid: "2"
+    requiregold: 1000
+    pvalue: 2.4
+  - id: "115"
+    infoid: "2"
+    requiregold: 1100
+    pvalue: 2.56
+  - id: "116"
+    infoid: "2"
+    requiregold: 1200
+    pvalue: 2.72
+  - id: "117"
+    infoid: "2"
+    requiregold: 1300
+    pvalue: 2.88
+  - id: "118"
+    infoid: "2"
+    requiregold: 1400
+    pvalue: 3.04
+  - id: "119"
+    infoid: "2"
+    requiregold: 1500
+    pvalue: 3.2
+  - id: "120"
+    infoid: "2"
+    requiregold: 1600
+    pvalue: 3.36
+  - id: "121"
+    infoid: "2"
+    requiregold: 1700
+    pvalue: 3.52
+  - id: "122"
+    infoid: "2"
+    requiregold: 1800
+    pvalue: 3.68
+  - id: "123"
+    infoid: "2"
+    requiregold: 1900
+    pvalue: 3.84
+  - id: "124"
+    infoid: "2"
+    requiregold: 2000
+    pvalue: 4
+  - id: "125"
+    infoid: "2"
+    requiregold: 2200
+    pvalue: 4.16
+  - id: "126"
+    infoid: "2"
+    requiregold: 2400
+    pvalue: 4.32
+  - id: "127"
+    infoid: "2"
+    requiregold: 2600
+    pvalue: 4.48
+  - id: "128"
+    infoid: "2"
+    requiregold: 2800
+    pvalue: 4.64
+  - id: "129"
+    infoid: "2"
+    requiregold: 3000
+    pvalue: 4.8
+  - id: "130"
+    infoid: "2"
+    requiregold: 3200
+    pvalue: 4.96
+  - id: "131"
+    infoid: "2"
+    requiregold: 3400
+    pvalue: 5.12
+  - id: "132"
+    infoid: "2"
+    requiregold: 3600
+    pvalue: 5.28
+  - id: "133"
+    infoid: "2"
+    requiregold: 3800
+    pvalue: 5.44
+  - id: "134"
+    infoid: "2"
+    requiregold: 4000
+    pvalue: 5.6
+  - id: "135"
+    infoid: "2"
+    requiregold: 4500
+    pvalue: 5.76
+  - id: "136"
+    infoid: "2"
+    requiregold: 5000
+    pvalue: 5.92
+  - id: "137"
+    infoid: "2"
+    requiregold: 5500
+    pvalue: 6.08
+  - id: "138"
+    infoid: "2"
+    requiregold: 6000
+    pvalue: 6.24
+  - id: "139"
+    infoid: "2"
+    requiregold: 6500
+    pvalue: 6.4
+  - id: "140"
+    infoid: "2"
+    requiregold: 7000
+    pvalue: 6.56
+  - id: "141"
+    infoid: "2"
+    requiregold: 7500
+    pvalue: 6.72
+  - id: "142"
+    infoid: "2"
+    requiregold: 8000
+    pvalue: 6.88
+  - id: "143"
+    infoid: "2"
+    requiregold: 8500
+    pvalue: 7.04
+  - id: "144"
+    infoid: "2"
+    requiregold: 9000
+    pvalue: 7.2
+  - id: "145"
+    infoid: "2"
+    requiregold: 9500
+    pvalue: 7.36
+  - id: "146"
+    infoid: "2"
+    requiregold: 10000
+    pvalue: 7.52
+  - id: "147"
+    infoid: "2"
+    requiregold: 12000
+    pvalue: 7.68
+  - id: "148"
+    infoid: "2"
+    requiregold: 15000
+    pvalue: 7.84
+  - id: "149"
+    infoid: "2"
+    requiregold: 20000
+    pvalue: 8
+  - id: "150"
+    infoid: "3"
+    requiregold: 50
+    pvalue: 0.16
+  - id: "151"
+    infoid: "3"
+    requiregold: 100
+    pvalue: 0.32
+  - id: "152"
+    infoid: "3"
+    requiregold: 150
+    pvalue: 0.48
+  - id: "153"
+    infoid: "3"
+    requiregold: 200
+    pvalue: 0.64
+  - id: "154"
+    infoid: "3"
+    requiregold: 250
+    pvalue: 0.8
+  - id: "155"
+    infoid: "3"
+    requiregold: 300
+    pvalue: 0.96
+  - id: "156"
+    infoid: "3"
+    requiregold: 350
+    pvalue: 1.12
+  - id: "157"
+    infoid: "3"
+    requiregold: 400
+    pvalue: 1.28
+  - id: "158"
+    infoid: "3"
+    requiregold: 450
+    pvalue: 1.44
+  - id: "159"
+    infoid: "3"
+    requiregold: 500
+    pvalue: 1.6
+  - id: "160"
+    infoid: "3"
+    requiregold: 600
+    pvalue: 1.76
+  - id: "161"
+    infoid: "3"
+    requiregold: 700
+    pvalue: 1.92
+  - id: "162"
+    infoid: "3"
+    requiregold: 800
+    pvalue: 2.08
+  - id: "163"
+    infoid: "3"
+    requiregold: 900
+    pvalue: 2.24
+  - id: "164"
+    infoid: "3"
+    requiregold: 1000
+    pvalue: 2.4
+  - id: "165"
+    infoid: "3"
+    requiregold: 1100
+    pvalue: 2.56
+  - id: "166"
+    infoid: "3"
+    requiregold: 1200
+    pvalue: 2.72
+  - id: "167"
+    infoid: "3"
+    requiregold: 1300
+    pvalue: 2.88
+  - id: "168"
+    infoid: "3"
+    requiregold: 1400
+    pvalue: 3.04
+  - id: "169"
+    infoid: "3"
+    requiregold: 1500
+    pvalue: 3.2
+  - id: "170"
+    infoid: "3"
+    requiregold: 1600
+    pvalue: 3.36
+  - id: "171"
+    infoid: "3"
+    requiregold: 1700
+    pvalue: 3.52
+  - id: "172"
+    infoid: "3"
+    requiregold: 1800
+    pvalue: 3.68
+  - id: "173"
+    infoid: "3"
+    requiregold: 1900
+    pvalue: 3.84
+  - id: "174"
+    infoid: "3"
+    requiregold: 2000
+    pvalue: 4
+  - id: "175"
+    infoid: "3"
+    requiregold: 2200
+    pvalue: 4.16
+  - id: "176"
+    infoid: "3"
+    requiregold: 2400
+    pvalue: 4.32
+  - id: "177"
+    infoid: "3"
+    requiregold: 2600
+    pvalue: 4.48
+  - id: "178"
+    infoid: "3"
+    requiregold: 2800
+    pvalue: 4.64
+  - id: "179"
+    infoid: "3"
+    requiregold: 3000
+    pvalue: 4.8
+  - id: "180"
+    infoid: "3"
+    requiregold: 3200
+    pvalue: 4.96
+  - id: "181"
+    infoid: "3"
+    requiregold: 3400
+    pvalue: 5.12
+  - id: "182"
+    infoid: "3"
+    requiregold: 3600
+    pvalue: 5.28
+  - id: "183"
+    infoid: "3"
+    requiregold: 3800
+    pvalue: 5.44
+  - id: "184"
+    infoid: "3"
+    requiregold: 4000
+    pvalue: 5.6
+  - id: "185"
+    infoid: "3"
+    requiregold: 4500
+    pvalue: 5.76
+  - id: "186"
+    infoid: "3"
+    requiregold: 5000
+    pvalue: 5.92
+  - id: "187"
+    infoid: "3"
+    requiregold: 5500
+    pvalue: 6.08
+  - id: "188"
+    infoid: "3"
+    requiregold: 6000
+    pvalue: 6.24
+  - id: "189"
+    infoid: "3"
+    requiregold: 6500
+    pvalue: 6.4
+  - id: "190"
+    infoid: "3"
+    requiregold: 7000
+    pvalue: 6.56
+  - id: "191"
+    infoid: "3"
+    requiregold: 7500
+    pvalue: 6.72
+  - id: "192"
+    infoid: "3"
+    requiregold: 8000
+    pvalue: 6.88
+  - id: "193"
+    infoid: "3"
+    requiregold: 8500
+    pvalue: 7.04
+  - id: "194"
+    infoid: "3"
+    requiregold: 9000
+    pvalue: 7.2
+  - id: "195"
+    infoid: "3"
+    requiregold: 9500
+    pvalue: 7.36
+  - id: "196"
+    infoid: "3"
+    requiregold: 10000
+    pvalue: 7.52
+  - id: "197"
+    infoid: "3"
+    requiregold: 12000
+    pvalue: 7.68
+  - id: "198"
+    infoid: "3"
+    requiregold: 15000
+    pvalue: 7.84
+  - id: "199"
+    infoid: "3"
+    requiregold: 20000
+    pvalue: 8
+  - id: "200"
+    infoid: "4"
+    requiregold: 50
+    pvalue: 0.02
+  - id: "201"
+    infoid: "4"
+    requiregold: 100
+    pvalue: 0.04
+  - id: "202"
+    infoid: "4"
+    requiregold: 150
+    pvalue: 0.06
+  - id: "203"
+    infoid: "4"
+    requiregold: 200
+    pvalue: 0.08
+  - id: "204"
+    infoid: "4"
+    requiregold: 250
+    pvalue: 0.1
+  - id: "205"
+    infoid: "4"
+    requiregold: 300
+    pvalue: 0.12
+  - id: "206"
+    infoid: "4"
+    requiregold: 350
+    pvalue: 0.14
+  - id: "207"
+    infoid: "4"
+    requiregold: 400
+    pvalue: 0.16
+  - id: "208"
+    infoid: "4"
+    requiregold: 450
+    pvalue: 0.18
+  - id: "209"
+    infoid: "4"
+    requiregold: 500
+    pvalue: 0.2
+  - id: "210"
+    infoid: "4"
+    requiregold: 600
+    pvalue: 0.22
+  - id: "211"
+    infoid: "4"
+    requiregold: 700
+    pvalue: 0.24
+  - id: "212"
+    infoid: "4"
+    requiregold: 800
+    pvalue: 0.26
+  - id: "213"
+    infoid: "4"
+    requiregold: 900
+    pvalue: 0.28
+  - id: "214"
+    infoid: "4"
+    requiregold: 1000
+    pvalue: 0.3
+  - id: "215"
+    infoid: "4"
+    requiregold: 1100
+    pvalue: 0.32
+  - id: "216"
+    infoid: "4"
+    requiregold: 1200
+    pvalue: 0.34
+  - id: "217"
+    infoid: "4"
+    requiregold: 1300
+    pvalue: 0.36
+  - id: "218"
+    infoid: "4"
+    requiregold: 1400
+    pvalue: 0.38
+  - id: "219"
+    infoid: "4"
+    requiregold: 1500
+    pvalue: 0.4
+  - id: "220"
+    infoid: "4"
+    requiregold: 1600
+    pvalue: 0.42
+  - id: "221"
+    infoid: "4"
+    requiregold: 1700
+    pvalue: 0.44
+  - id: "222"
+    infoid: "4"
+    requiregold: 1800
+    pvalue: 0.46
+  - id: "223"
+    infoid: "4"
+    requiregold: 1900
+    pvalue: 0.48
+  - id: "224"
+    infoid: "4"
+    requiregold: 2000
+    pvalue: 0.5
+  - id: "225"
+    infoid: "4"
+    requiregold: 2200
+    pvalue: 0.52
+  - id: "226"
+    infoid: "4"
+    requiregold: 2400
+    pvalue: 0.54
+  - id: "227"
+    infoid: "4"
+    requiregold: 2600
+    pvalue: 0.56
+  - id: "228"
+    infoid: "4"
+    requiregold: 2800
+    pvalue: 0.58
+  - id: "229"
+    infoid: "4"
+    requiregold: 3000
+    pvalue: 0.6
+  - id: "230"
+    infoid: "4"
+    requiregold: 3200
+    pvalue: 0.62
+  - id: "231"
+    infoid: "4"
+    requiregold: 3400
+    pvalue: 0.64
+  - id: "232"
+    infoid: "4"
+    requiregold: 3600
+    pvalue: 0.66
+  - id: "233"
+    infoid: "4"
+    requiregold: 3800
+    pvalue: 0.68
+  - id: "234"
+    infoid: "4"
+    requiregold: 4000
+    pvalue: 0.7
+  - id: "235"
+    infoid: "4"
+    requiregold: 4500
+    pvalue: 0.72
+  - id: "236"
+    infoid: "4"
+    requiregold: 5000
+    pvalue: 0.74
+  - id: "237"
+    infoid: "4"
+    requiregold: 5500
+    pvalue: 0.76
+  - id: "238"
+    infoid: "4"
+    requiregold: 6000
+    pvalue: 0.78
+  - id: "239"
+    infoid: "4"
+    requiregold: 6500
+    pvalue: 0.8
+  - id: "240"
+    infoid: "4"
+    requiregold: 7000
+    pvalue: 0.82
+  - id: "241"
+    infoid: "4"
+    requiregold: 7500
+    pvalue: 0.84
+  - id: "242"
+    infoid: "4"
+    requiregold: 8000
+    pvalue: 0.86
+  - id: "243"
+    infoid: "4"
+    requiregold: 8500
+    pvalue: 0.88
+  - id: "244"
+    infoid: "4"
+    requiregold: 9000
+    pvalue: 0.9
+  - id: "245"
+    infoid: "4"
+    requiregold: 9500
+    pvalue: 0.92
+  - id: "246"
+    infoid: "4"
+    requiregold: 10000
+    pvalue: 0.94
+  - id: "247"
+    infoid: "4"
+    requiregold: 12000
+    pvalue: 0.96
+  - id: "248"
+    infoid: "4"
+    requiregold: 15000
+    pvalue: 0.98
+  - id: "249"
+    infoid: "4"
+    requiregold: 20000
+    pvalue: 1
+  - id: "250"
+    infoid: "5"
+    requiregold: 50
+    pvalue: 0.01
+  - id: "251"
+    infoid: "5"
+    requiregold: 100
+    pvalue: 0.02
+  - id: "252"
+    infoid: "5"
+    requiregold: 150
+    pvalue: 0.03
+  - id: "253"
+    infoid: "5"
+    requiregold: 200
+    pvalue: 0.04
+  - id: "254"
+    infoid: "5"
+    requiregold: 250
+    pvalue: 0.05
+  - id: "255"
+    infoid: "5"
+    requiregold: 300
+    pvalue: 0.06
+  - id: "256"
+    infoid: "5"
+    requiregold: 350
+    pvalue: 0.07
+  - id: "257"
+    infoid: "5"
+    requiregold: 400
+    pvalue: 0.08
+  - id: "258"
+    infoid: "5"
+    requiregold: 450
+    pvalue: 0.09
+  - id: "259"
+    infoid: "5"
+    requiregold: 500
+    pvalue: 0.1
+  - id: "260"
+    infoid: "5"
+    requiregold: 600
+    pvalue: 0.11
+  - id: "261"
+    infoid: "5"
+    requiregold: 700
+    pvalue: 0.12
+  - id: "262"
+    infoid: "5"
+    requiregold: 800
+    pvalue: 0.13
+  - id: "263"
+    infoid: "5"
+    requiregold: 900
+    pvalue: 0.14
+  - id: "264"
+    infoid: "5"
+    requiregold: 1000
+    pvalue: 0.15
+  - id: "265"
+    infoid: "5"
+    requiregold: 1100
+    pvalue: 0.16
+  - id: "266"
+    infoid: "5"
+    requiregold: 1200
+    pvalue: 0.17
+  - id: "267"
+    infoid: "5"
+    requiregold: 1300
+    pvalue: 0.18
+  - id: "268"
+    infoid: "5"
+    requiregold: 1400
+    pvalue: 0.19
+  - id: "269"
+    infoid: "5"
+    requiregold: 1500
+    pvalue: 0.2
+  - id: "270"
+    infoid: "5"
+    requiregold: 1600
+    pvalue: 0.21
+  - id: "271"
+    infoid: "5"
+    requiregold: 1700
+    pvalue: 0.22
+  - id: "272"
+    infoid: "5"
+    requiregold: 1800
+    pvalue: 0.23
+  - id: "273"
+    infoid: "5"
+    requiregold: 1900
+    pvalue: 0.24
+  - id: "274"
+    infoid: "5"
+    requiregold: 2000
+    pvalue: 0.25
+  - id: "275"
+    infoid: "5"
+    requiregold: 2200
+    pvalue: 0.26
+  - id: "276"
+    infoid: "5"
+    requiregold: 2400
+    pvalue: 0.27
+  - id: "277"
+    infoid: "5"
+    requiregold: 2600
+    pvalue: 0.28
+  - id: "278"
+    infoid: "5"
+    requiregold: 2800
+    pvalue: 0.29
+  - id: "279"
+    infoid: "5"
+    requiregold: 3000
+    pvalue: 0.3
+  - id: "280"
+    infoid: "5"
+    requiregold: 3200
+    pvalue: 0.31
+  - id: "281"
+    infoid: "5"
+    requiregold: 3400
+    pvalue: 0.32
+  - id: "282"
+    infoid: "5"
+    requiregold: 3600
+    pvalue: 0.33
+  - id: "283"
+    infoid: "5"
+    requiregold: 3800
+    pvalue: 0.34
+  - id: "284"
+    infoid: "5"
+    requiregold: 4000
+    pvalue: 0.35
+  - id: "285"
+    infoid: "5"
+    requiregold: 4500
+    pvalue: 0.36
+  - id: "286"
+    infoid: "5"
+    requiregold: 5000
+    pvalue: 0.37
+  - id: "287"
+    infoid: "5"
+    requiregold: 5500
+    pvalue: 0.38
+  - id: "288"
+    infoid: "5"
+    requiregold: 6000
+    pvalue: 0.39
+  - id: "289"
+    infoid: "5"
+    requiregold: 6500
+    pvalue: 0.4
+  - id: "290"
+    infoid: "5"
+    requiregold: 7000
+    pvalue: 0.41
+  - id: "291"
+    infoid: "5"
+    requiregold: 7500
+    pvalue: 0.42
+  - id: "292"
+    infoid: "5"
+    requiregold: 8000
+    pvalue: 0.43
+  - id: "293"
+    infoid: "5"
+    requiregold: 8500
+    pvalue: 0.44
+  - id: "294"
+    infoid: "5"
+    requiregold: 9000
+    pvalue: 0.45
+  - id: "295"
+    infoid: "5"
+    requiregold: 9500
+    pvalue: 0.46
+  - id: "296"
+    infoid: "5"
+    requiregold: 10000
+    pvalue: 0.47
+  - id: "297"
+    infoid: "5"
+    requiregold: 12000
+    pvalue: 0.48
+  - id: "298"
+    infoid: "5"
+    requiregold: 15000
+    pvalue: 0.49
+  - id: "299"
+    infoid: "5"
+    requiregold: 20000
+    pvalue: 0.5

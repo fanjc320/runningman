@@ -1,0 +1,3204 @@
+fileFormatVersion: 2
+guid: db90e033366f4303a9b8a9e2f77876b1
+timeCreated: 1710969483
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300088: common_start_bg
+    21300072: main_btn_question_mark
+    21300220: main_icon_Character_coin_badboy
+    21300182: main_icon_Character_badboy_02
+    21300142: common_shop_icon_game_coin_02
+    21300188: main_btn_achievement
+    21300166: common_popup_Shading
+    21300078: main_btn_one_more
+    21300046: main_count_back
+    21300016: common_shop_icon_game_coin_01
+    21300034: common_google_log
+    21300192: common_icon_middle_game_coin
+    21300098: main_icon_Character_badboy_01
+    21300052: main_icon_Character_yuruce_02
+    21300196: common_shop_icon_game_jewelry_01
+    21300040: main_btn_popup_Invite
+    21300020: main_btn_bonus_gold
+    21300014: main_icon_Character_coin_ace
+    21300172: main_btn_Invite
+    21300122: main_mailbox_photo_bg
+    21300184: main_character_bg2
+    21300094: common_log_facebook_bg
+    21300164: main_icon_fever_time
+    21300104: common_shop_icon_gold_05
+    21300030: main_btn_left_arrow
+    21300050: common_shop_icon__light_bg
+    21300054: main_btn_helmat
+    21300026: main_icon_Character_yuruce_01
+    21300144: main_icon_shop
+    21300004: common_btn_bg_blue
+    21300108: commom_photo_mask_2
+    21300068: main_btn_mental
+    21300064: common_shop_icon_game_coin_04
+    21300010: common_shop_icon_game_jewelry_03
+    21300204: common_shop_item_bg
+    21300190: common_icon_small_jewelry
+    21300092: main_ability_bg
+    21300096: common_shop_icon_gold_01
+    21300222: main_icon_Character_coin_yuruce
+    21300062: main_icon_Character_bignose_03
+    21300132: common_icon_middle_jewelry
+    21300032: main_btn_plus
+    21300186: main_icon_Character_spartans_03
+    21300112: common_shop_icon_gold_03
+    21300022: main_icon_gold_up
+    21300224: common_icon_middle_gold
+    21300080: common_btn_bg_green
+    21300174: main_icon_Character_spartans_01
+    21300116: main_btn_level_up
+    21300090: common_btn_bg_gray
+    21300168: common_new
+    21300130: common_bonus_jewelry
+    21300128: main_icon_magnet_up
+    21300134: common_icon_small_gold
+    21300176: main_icon_Character_haroro_01
+    21300042: main_icon_Character_coin_spartans
+    21300008: main_icon_Character_haroro_03
+    21300146: main_icon_Character_bignose_02
+    21300038: main_ability_select
+    21300200: main_icon_Character_ace_01
+    21300156: main_icon_Character_bignose_01
+    21300028: main_Preference_flag_kr
+    21300044: common_check
+    21300202: main_icon_Character_hiphoper_03
+    21300218: main_btn_facebook
+    21300136: main_btn_ranking
+    21300216: main_icon_2_gold
+    21300066: main_bonus_jewelry
+    21300198: main_btn_two_jump
+    21300102: main_btn_relay
+    21300076: common_btn_bg_red
+    21300210: main_btn_gift_boxe
+    21300180: main_icon_Character_badboy_03
+    21300212: main_Preference_flag_en
+    21300206: main_lock
+    21300148: main_icon_Character_coin_haroro
+    21300086: main_btn_right_arrow
+    21300114: main_Description_bg
+    21300110: main_icon_Character_ace_03
+    21300082: tame_bg
+    21300074: main_btn_preference
+    21300006: main_Preference_flag_cn
+    21300140: main_character_buy_bg
+    21300048: common_popup_close_btn_bg
+    21300158: main_icon_fever_up
+    21300150: main_btn_ch_shop
+    21300162: common_shop_icon_game_jewelry_04
+    21300084: main_icon_Character_yuruce_03
+    21300106: common_icon_small_game_coin
+    21300124: main_btn_item_select
+    21300100: main_icon_Character_hiphoper_02
+    21300152: main_icon_Character_coin_bignose
+    21300160: main_icon_Character_haroro_02
+    21300000: main_friend_photo_default
+    21300170: main_icon_Character_spartans_02
+    21300002: common_popup_bg
+    21300012: main_btn_mailbox
+    21300194: main_btn_mission
+    21300070: main_small_gift_box
+    21300060: main_icon_Character_ace_02
+    21300056: main_icon_Character_hiphoper_01
+    21300118: main_rattendance_itme_bg
+    21300036: main_btn_last_fever
+    21300138: main_btn_start_fever
+    21300154: common_shop_icon_gold_04
+    21300018: common_shop_icon_game_jewelry_02
+    21300024: main_icon_point_up
+    21300120: common_shop_icon_gold_02
+    21300208: common_btn_popup_close
+    21300058: common_facebook_log
+    21300178: ingame_icon_tv
+    21300126: main_icon_Character_coin_hiphoper
+    21300214: common_shop_icon_game_coin_03
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: common_start_bg
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 880
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+      outline:
+      - - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: -10, y: -10}
+      - - {x: -10, y: -10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_question_mark
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 611
+        width: 108
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -12}
+        - {x: -54, y: 14}
+        - {x: -49, y: -16}
+      - - {x: -48, y: 17}
+        - {x: -49, y: -16}
+        - {x: -54, y: 14}
+      - - {x: -48, y: -17}
+        - {x: -49, y: -16}
+        - {x: -48, y: 17}
+      - - {x: 48, y: -17}
+        - {x: -48, y: -17}
+        - {x: -48, y: 17}
+      - - {x: 53, y: 17}
+        - {x: 48, y: -17}
+        - {x: -48, y: 17}
+      - - {x: 54, y: -14}
+        - {x: 48, y: -17}
+        - {x: 53, y: 17}
+      - - {x: 54, y: 13}
+        - {x: 54, y: -14}
+        - {x: 53, y: 17}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_coin_badboy
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 750
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -24.5}
+        - {x: -24.5, y: 24.5}
+        - {x: 24.5, y: -24.5}
+      - - {x: 23.5, y: 24.5}
+        - {x: 24.5, y: -24.5}
+        - {x: -24.5, y: 24.5}
+      - - {x: 24.5, y: 21.5}
+        - {x: 24.5, y: -24.5}
+        - {x: 23.5, y: 24.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_badboy_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_game_coin_02
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 638
+        width: 86
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: -28}
+        - {x: -43, y: 14}
+        - {x: 40, y: -28}
+      - - {x: -38, y: 28}
+        - {x: 40, y: -28}
+        - {x: -43, y: 14}
+      - - {x: 43, y: 28}
+        - {x: 40, y: -28}
+        - {x: -38, y: 28}
+      - - {x: 43, y: -26}
+        - {x: 40, y: -28}
+        - {x: 43, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_achievement
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 263
+        width: 80.97325
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5001652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -22}
+        - {x: -40.5, y: 22}
+        - {x: -21.5, y: -39}
+      - - {x: -24.5, y: 39}
+        - {x: -21.5, y: -39}
+        - {x: -40.5, y: 22}
+      - - {x: 31.5, y: 39}
+        - {x: -21.5, y: -39}
+        - {x: -24.5, y: 39}
+      - - {x: 24.5, y: -39}
+        - {x: -21.5, y: -39}
+        - {x: 31.5, y: 39}
+      - - {x: 27.5, y: -38}
+        - {x: 24.5, y: -39}
+        - {x: 31.5, y: 39}
+      - - {x: 40.5, y: -30}
+        - {x: 27.5, y: -38}
+        - {x: 31.5, y: 39}
+      - - {x: 40.5, y: 25}
+        - {x: 40.5, y: -30}
+        - {x: 31.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_popup_Shading
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 485
+        width: 39
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline:
+      - - {x: -19.5, y: -17}
+        - {x: -19.5, y: 18}
+        - {x: -16.5, y: -18}
+      - - {x: 17.5, y: 18}
+        - {x: -16.5, y: -18}
+        - {x: -19.5, y: 18}
+      - - {x: 19.5, y: -18}
+        - {x: -16.5, y: -18}
+        - {x: 17.5, y: 18}
+      - - {x: 19.5, y: 17}
+        - {x: 19.5, y: -18}
+        - {x: 17.5, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_one_more
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -54}
+        - {x: -54, y: 53}
+        - {x: 54, y: -54}
+      - - {x: -53, y: 54}
+        - {x: 54, y: -54}
+        - {x: -54, y: 53}
+      - - {x: 54, y: 54}
+        - {x: 54, y: -54}
+        - {x: -53, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_count_back
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 206
+        width: 143
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: -26.5}
+        - {x: -71.5, y: 26.5}
+        - {x: 52.5, y: -26.5}
+      - - {x: 71.5, y: 26.5}
+        - {x: 52.5, y: -26.5}
+        - {x: -71.5, y: 26.5}
+      - - {x: 71.5, y: -22.5}
+        - {x: 52.5, y: -26.5}
+        - {x: 71.5, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_game_coin_01
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 732
+        width: 54
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -28}
+        - {x: -27, y: 28}
+        - {x: 23, y: -28}
+      - - {x: 22, y: 28}
+        - {x: 23, y: -28}
+        - {x: -27, y: 28}
+      - - {x: 27, y: 27}
+        - {x: 23, y: -28}
+        - {x: 22, y: 28}
+      - - {x: 27, y: -17}
+        - {x: 23, y: -28}
+        - {x: 27, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_google_log
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 566
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: -35}
+      - - {x: 35, y: 35}
+        - {x: 35, y: -35}
+        - {x: -35, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_icon_middle_game_coin
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 694
+        width: 48
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -17.5}
+        - {x: -24, y: 20.5}
+        - {x: -18, y: -24.5}
+      - - {x: -14, y: 24.5}
+        - {x: -18, y: -24.5}
+        - {x: -24, y: 20.5}
+      - - {x: 15, y: -24.5}
+        - {x: -18, y: -24.5}
+        - {x: -14, y: 24.5}
+      - - {x: 23, y: 24.5}
+        - {x: 15, y: -24.5}
+        - {x: -14, y: 24.5}
+      - - {x: 24, y: -22.5}
+        - {x: 15, y: -24.5}
+        - {x: 23, y: 24.5}
+      - - {x: 24, y: 22.5}
+        - {x: 24, y: -22.5}
+        - {x: 23, y: 24.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_badboy_01
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 480
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_yuruce_02
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 525
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_game_jewelry_01
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 690
+        width: 63
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -13}
+        - {x: -31.5, y: 11}
+        - {x: 11.5, y: -29}
+      - - {x: -9.5, y: 29}
+        - {x: 11.5, y: -29}
+        - {x: -31.5, y: 11}
+      - - {x: 31.5, y: 29}
+        - {x: 11.5, y: -29}
+        - {x: -9.5, y: 29}
+      - - {x: 28.5, y: -29}
+        - {x: 11.5, y: -29}
+        - {x: 31.5, y: 29}
+      - - {x: 31.5, y: -11}
+        - {x: 28.5, y: -29}
+        - {x: 31.5, y: 29}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_popup_Invite
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 551
+        width: 64
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -29}
+        - {x: -32, y: 24}
+        - {x: 29, y: -29}
+      - - {x: -20, y: 29}
+        - {x: 29, y: -29}
+        - {x: -32, y: 24}
+      - - {x: 12, y: 29}
+        - {x: 29, y: -29}
+        - {x: -20, y: 29}
+      - - {x: 32, y: 10}
+        - {x: 29, y: -29}
+        - {x: 12, y: 29}
+      - - {x: 32, y: -21}
+        - {x: 29, y: -29}
+        - {x: 32, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_bonus_gold
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -54}
+        - {x: -54, y: 53}
+        - {x: 54, y: -54}
+      - - {x: -53, y: 54}
+        - {x: 54, y: -54}
+        - {x: -54, y: 53}
+      - - {x: 54, y: 54}
+        - {x: 54, y: -54}
+        - {x: -53, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_coin_ace
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 599
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -9.5}
+        - {x: -24.5, y: 15.5}
+        - {x: -16.5, y: -24.5}
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -24.5, y: 15.5}
+      - - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 12.5, y: 24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 24.5, y: 13.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 12.5, y: 24.5}
+      - - {x: 24.5, y: -15.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 24.5, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_Invite
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 263
+        width: 81
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -39}
+        - {x: -40.5, y: 39}
+        - {x: 33.5, y: -39}
+      - - {x: 19.5, y: 39}
+        - {x: 33.5, y: -39}
+        - {x: -40.5, y: 39}
+      - - {x: 40.5, y: 19}
+        - {x: 33.5, y: -39}
+        - {x: 19.5, y: 39}
+      - - {x: 40.5, y: -22}
+        - {x: 33.5, y: -39}
+        - {x: 40.5, y: 19}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_mailbox_photo_bg
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 882
+        width: 19
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline:
+      - - {x: -9.5, y: 10.5}
+        - {x: 9.5, y: 10.5}
+        - {x: -9.5, y: -10.5}
+      - - {x: -9.5, y: -10.5}
+        - {x: 9.5, y: 10.5}
+        - {x: 9.5, y: -10.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_character_bg2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 222
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111, y: -78.5}
+        - {x: -111, y: 73.5}
+        - {x: -107, y: -83.5}
+      - - {x: -79, y: 77.5}
+        - {x: -107, y: -83.5}
+        - {x: -111, y: 73.5}
+      - - {x: -87, y: -89.5}
+        - {x: -107, y: -83.5}
+        - {x: -79, y: 77.5}
+      - - {x: 11, y: -89.5}
+        - {x: -87, y: -89.5}
+        - {x: -79, y: 77.5}
+      - - {x: -1, y: 80.5}
+        - {x: 11, y: -89.5}
+        - {x: -79, y: 77.5}
+      - - {x: 70, y: 89.5}
+        - {x: 11, y: -89.5}
+        - {x: -1, y: 80.5}
+      - - {x: 46, y: -76.5}
+        - {x: 11, y: -89.5}
+        - {x: 70, y: 89.5}
+      - - {x: 88, y: -79.5}
+        - {x: 46, y: -76.5}
+        - {x: 70, y: 89.5}
+      - - {x: 111, y: 89.5}
+        - {x: 88, y: -79.5}
+        - {x: 70, y: 89.5}
+      - - {x: 110, y: -63.5}
+        - {x: 88, y: -79.5}
+        - {x: 111, y: 89.5}
+      - - {x: 111, y: -24.5}
+        - {x: 110, y: -63.5}
+        - {x: 111, y: 89.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_log_facebook_bg
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 153
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 7, z: 7, w: 7}
+      outline:
+      - - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: -10, y: -10}
+      - - {x: -10, y: -10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_fever_time
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 696
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -26.5}
+        - {x: -30.5, y: 23.5}
+        - {x: -22.5, y: -28.5}
+      - - {x: -21.5, y: 28.5}
+        - {x: -22.5, y: -28.5}
+        - {x: -30.5, y: 23.5}
+      - - {x: 30.5, y: -28.5}
+        - {x: -22.5, y: -28.5}
+        - {x: -21.5, y: 28.5}
+      - - {x: 26.5, y: 28.5}
+        - {x: 30.5, y: -28.5}
+        - {x: -21.5, y: 28.5}
+      - - {x: 30.5, y: 23.5}
+        - {x: 30.5, y: -28.5}
+        - {x: 26.5, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_gold_05
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 220
+        width: 108
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -30}
+        - {x: -54, y: 15}
+        - {x: -51, y: -40}
+      - - {x: -35, y: 40}
+        - {x: -51, y: -40}
+        - {x: -54, y: 15}
+      - - {x: 42, y: -40}
+        - {x: -51, y: -40}
+        - {x: -35, y: 40}
+      - - {x: 32, y: 40}
+        - {x: 42, y: -40}
+        - {x: -35, y: 40}
+      - - {x: 54, y: 36}
+        - {x: 42, y: -40}
+        - {x: 32, y: 40}
+      - - {x: 54, y: -32}
+        - {x: 42, y: -40}
+        - {x: 54, y: 36}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_left_arrow
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 423
+        width: 52
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -46}
+        - {x: -26, y: 46}
+        - {x: 26, y: -46}
+      - - {x: 24, y: 46}
+        - {x: 26, y: -46}
+        - {x: -26, y: 46}
+      - - {x: 26, y: 45}
+        - {x: 26, y: -46}
+        - {x: 24, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon__light_bg
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 191
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.5, y: -69.5}
+        - {x: -95.5, y: 74.5}
+        - {x: -57.5, y: -95.5}
+      - - {x: -87.5, y: 92.5}
+        - {x: -57.5, y: -95.5}
+        - {x: -95.5, y: 74.5}
+      - - {x: -70.5, y: 95.5}
+        - {x: -57.5, y: -95.5}
+        - {x: -87.5, y: 92.5}
+      - - {x: 89.5, y: 95.5}
+        - {x: -57.5, y: -95.5}
+        - {x: -70.5, y: 95.5}
+      - - {x: 95.5, y: -95.5}
+        - {x: -57.5, y: -95.5}
+        - {x: 89.5, y: 95.5}
+      - - {x: 95.5, y: 81.5}
+        - {x: 95.5, y: -95.5}
+        - {x: 89.5, y: 95.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_helmat
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 342
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -54}
+        - {x: -54, y: 53}
+        - {x: 54, y: -54}
+      - - {x: -53, y: 54}
+        - {x: 54, y: -54}
+        - {x: -54, y: 53}
+      - - {x: 54, y: 54}
+        - {x: 54, y: -54}
+        - {x: -53, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_yuruce_01
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 391
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_shop
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 817
+        width: 58
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 3.5}
+        - {x: -29, y: 27.5}
+        - {x: -17, y: -27.5}
+      - - {x: -1, y: 27.5}
+        - {x: -17, y: -27.5}
+        - {x: -29, y: 27.5}
+      - - {x: 29, y: -27.5}
+        - {x: -17, y: -27.5}
+        - {x: -1, y: 27.5}
+      - - {x: 27, y: 23.5}
+        - {x: 29, y: -27.5}
+        - {x: -1, y: 27.5}
+      - - {x: 29, y: 22.5}
+        - {x: 29, y: -27.5}
+        - {x: 27, y: 23.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_btn_bg_blue
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 517
+        width: 26
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 51, z: 11, w: 8}
+      outline:
+      - - {x: -13, y: 35}
+        - {x: 13, y: 35}
+        - {x: -13, y: -35}
+      - - {x: -13, y: -35}
+        - {x: 13, y: 35}
+        - {x: 13, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commom_photo_mask_2
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 227
+        width: 77
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 39}
+        - {x: -34.5, y: -32}
+        - {x: -38.5, y: -39}
+      - - {x: 38.5, y: -39}
+        - {x: -38.5, y: -39}
+        - {x: -34.5, y: -32}
+      - - {x: 31.5, y: -35}
+        - {x: 38.5, y: -39}
+        - {x: -34.5, y: -32}
+      - - {x: 34.5, y: 32}
+        - {x: 38.5, y: -39}
+        - {x: 31.5, y: -35}
+      - - {x: 38.5, y: 39}
+        - {x: -31.5, y: 35}
+        - {x: -38.5, y: 39}
+      - - {x: -34.5, y: -32}
+        - {x: -38.5, y: 39}
+        - {x: -31.5, y: 35}
+      - - {x: 34.5, y: 32}
+        - {x: -31.5, y: 35}
+        - {x: 38.5, y: 39}
+      - - {x: 38.5, y: -39}
+        - {x: 34.5, y: 32}
+        - {x: 38.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_mental
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 110
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -54}
+        - {x: -54, y: 53}
+        - {x: 54, y: -54}
+      - - {x: -53, y: 54}
+        - {x: 54, y: -54}
+        - {x: -54, y: 53}
+      - - {x: 54, y: 54}
+        - {x: 54, y: -54}
+        - {x: -53, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_game_coin_04
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 671
+        width: 63
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -28}
+        - {x: -31.5, y: 29}
+        - {x: -29.5, y: -30}
+      - - {x: -29.5, y: 30}
+        - {x: -29.5, y: -30}
+        - {x: -31.5, y: 29}
+      - - {x: 31.5, y: -30}
+        - {x: -29.5, y: -30}
+        - {x: -29.5, y: 30}
+      - - {x: 31.5, y: 30}
+        - {x: 31.5, y: -30}
+        - {x: -29.5, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_game_jewelry_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 817
+        width: 64
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -25.5}
+        - {x: -32, y: 29.5}
+        - {x: -24, y: -32.5}
+      - - {x: -24, y: 32.5}
+        - {x: -24, y: -32.5}
+        - {x: -32, y: 29.5}
+      - - {x: 23, y: -32.5}
+        - {x: -24, y: -32.5}
+        - {x: -24, y: 32.5}
+      - - {x: 32, y: 32.5}
+        - {x: 23, y: -32.5}
+        - {x: -24, y: 32.5}
+      - - {x: 32, y: -29.5}
+        - {x: 23, y: -32.5}
+        - {x: 32, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_item_bg
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 547
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      outline:
+      - - {x: -13, y: 13.5}
+        - {x: 13, y: 13.5}
+        - {x: -13, y: -13.5}
+      - - {x: -13, y: -13.5}
+        - {x: 13, y: 13.5}
+        - {x: 13, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_icon_small_jewelry
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 302
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: -12, y: -12}
+      - - {x: -12, y: -12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_ability_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 225
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -112.5, y: -31.5}
+        - {x: -112.5, y: 28.5}
+        - {x: -110.5, y: -33.5}
+      - - {x: -110.5, y: 33.5}
+        - {x: -110.5, y: -33.5}
+        - {x: -112.5, y: 28.5}
+      - - {x: 112.5, y: -33.5}
+        - {x: -110.5, y: -33.5}
+        - {x: -110.5, y: 33.5}
+      - - {x: 96.5, y: 33.5}
+        - {x: 112.5, y: -33.5}
+        - {x: -110.5, y: 33.5}
+      - - {x: 111.5, y: 31.5}
+        - {x: 112.5, y: -33.5}
+        - {x: 96.5, y: 33.5}
+      - - {x: 112.5, y: 27.5}
+        - {x: 112.5, y: -33.5}
+        - {x: 111.5, y: 31.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_gold_01
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 537
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -30}
+        - {x: -30, y: 21}
+        - {x: 30, y: -30}
+      - - {x: -23, y: 30}
+        - {x: 30, y: -30}
+        - {x: -30, y: 21}
+      - - {x: 23, y: 30}
+        - {x: 30, y: -30}
+        - {x: -23, y: 30}
+      - - {x: 30, y: 27}
+        - {x: 30, y: -30}
+        - {x: 23, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_coin_yuruce
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 647
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -9.5}
+        - {x: -24.5, y: 15.5}
+        - {x: -16.5, y: -24.5}
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -24.5, y: 15.5}
+      - - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 12.5, y: 24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 24.5, y: 13.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 12.5, y: 24.5}
+      - - {x: 24.5, y: -15.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 24.5, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_bignose_03
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 598
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_icon_middle_jewelry
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 517.0761
+        width: 48
+        height: 48.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4992221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -21.5}
+        - {x: -24, y: 5.5}
+        - {x: -3, y: -24.5}
+      - - {x: -20, y: 18.5}
+        - {x: -3, y: -24.5}
+        - {x: -24, y: 5.5}
+      - - {x: -4, y: 24.5}
+        - {x: -3, y: -24.5}
+        - {x: -20, y: 18.5}
+      - - {x: 24, y: 24.5}
+        - {x: -3, y: -24.5}
+        - {x: -4, y: 24.5}
+      - - {x: 24, y: -24.5}
+        - {x: -3, y: -24.5}
+        - {x: 24, y: 24.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_plus
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 698
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: -18.5}
+        - {x: -18.5, y: 18.5}
+        - {x: 18.5, y: -18.5}
+      - - {x: 18.5, y: 18.5}
+        - {x: 18.5, y: -18.5}
+        - {x: -18.5, y: 18.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_spartans_03
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 493
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_gold_03
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 620
+        width: 68
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -21}
+        - {x: -34, y: 29}
+        - {x: -28, y: -34}
+      - - {x: -25, y: 34}
+        - {x: -28, y: -34}
+        - {x: -34, y: 29}
+      - - {x: 30, y: -34}
+        - {x: -28, y: -34}
+        - {x: -25, y: 34}
+      - - {x: 13, y: 34}
+        - {x: 30, y: -34}
+        - {x: -25, y: 34}
+      - - {x: 34, y: 24}
+        - {x: 30, y: -34}
+        - {x: 13, y: 34}
+      - - {x: 34, y: -32}
+        - {x: 30, y: -34}
+        - {x: 34, y: 24}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_gold_up
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 60
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -18.5}
+        - {x: -30, y: 14.5}
+        - {x: -21, y: -27.5}
+      - - {x: -14, y: 27.5}
+        - {x: -21, y: -27.5}
+        - {x: -30, y: 14.5}
+      - - {x: 28, y: -27.5}
+        - {x: -21, y: -27.5}
+        - {x: -14, y: 27.5}
+      - - {x: 17, y: 27.5}
+        - {x: 28, y: -27.5}
+        - {x: -14, y: 27.5}
+      - - {x: 30, y: 9.5}
+        - {x: 28, y: -27.5}
+        - {x: 17, y: 27.5}
+      - - {x: 30, y: -23.5}
+        - {x: 28, y: -27.5}
+        - {x: 30, y: 9.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_icon_middle_gold
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 803
+        width: 48
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -22.5}
+        - {x: -24, y: 12.5}
+        - {x: -23, y: -24.5}
+      - - {x: -23, y: 15.5}
+        - {x: -23, y: -24.5}
+        - {x: -24, y: 12.5}
+      - - {x: 16, y: -24.5}
+        - {x: -23, y: -24.5}
+        - {x: -23, y: 15.5}
+      - - {x: -10, y: 24.5}
+        - {x: 16, y: -24.5}
+        - {x: -23, y: 15.5}
+      - - {x: 17, y: 24.5}
+        - {x: 16, y: -24.5}
+        - {x: -10, y: 24.5}
+      - - {x: 24, y: -21.5}
+        - {x: 16, y: -24.5}
+        - {x: 17, y: 24.5}
+      - - {x: 24, y: 17.5}
+        - {x: 24, y: -21.5}
+        - {x: 17, y: 24.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_btn_bg_green
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 698
+        width: 26
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 51, z: 11, w: 8}
+      outline:
+      - - {x: -13, y: 35}
+        - {x: 13, y: 35}
+        - {x: -13, y: -35}
+      - - {x: -13, y: -35}
+        - {x: 13, y: 35}
+        - {x: 13, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_spartans_01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 598
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_level_up
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 110
+        width: 116
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 21.5}
+        - {x: -58, y: 37.5}
+        - {x: -44, y: 6.5}
+      - - {x: 58, y: 37.5}
+        - {x: -44, y: 6.5}
+        - {x: -58, y: 37.5}
+      - - {x: 45, y: -37.5}
+        - {x: -44, y: 6.5}
+        - {x: 58, y: 37.5}
+      - - {x: 58, y: -37.5}
+        - {x: 45, y: -37.5}
+        - {x: 58, y: 37.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_btn_bg_gray
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 790
+        width: 26
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 51, z: 11, w: 8}
+      outline:
+      - - {x: -13, y: 35}
+        - {x: 13, y: 35}
+        - {x: -13, y: -35}
+      - - {x: -13, y: -35}
+        - {x: 13, y: 35}
+        - {x: 13, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_new
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 523
+        width: 54
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 12.5}
+        - {x: 27, y: 12.5}
+        - {x: -27, y: -12.5}
+      - - {x: -27, y: -12.5}
+        - {x: 27, y: 12.5}
+        - {x: 27, y: -12.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_bonus_jewelry
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 413
+        width: 74
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -29}
+        - {x: -37, y: 30}
+        - {x: -3, y: -34}
+      - - {x: -30, y: 34}
+        - {x: -3, y: -34}
+        - {x: -37, y: 30}
+      - - {x: 37, y: 34}
+        - {x: -3, y: -34}
+        - {x: -30, y: 34}
+      - - {x: 37, y: -34}
+        - {x: -3, y: -34}
+        - {x: 37, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_magnet_up
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 569
+        width: 64
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -18.5}
+        - {x: -32, y: 17.5}
+        - {x: -26, y: -29.5}
+      - - {x: -19, y: 29.5}
+        - {x: -26, y: -29.5}
+        - {x: -32, y: 17.5}
+      - - {x: 30, y: -29.5}
+        - {x: -26, y: -29.5}
+        - {x: -19, y: 29.5}
+      - - {x: 3, y: 29.5}
+        - {x: 30, y: -29.5}
+        - {x: -19, y: 29.5}
+      - - {x: 18, y: 24.5}
+        - {x: 30, y: -29.5}
+        - {x: 3, y: 29.5}
+      - - {x: 32, y: 7.5}
+        - {x: 30, y: -29.5}
+        - {x: 18, y: 24.5}
+      - - {x: 32, y: -23.5}
+        - {x: 30, y: -29.5}
+        - {x: 32, y: 7.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_icon_small_gold
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 854
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: -12, y: -12}
+      - - {x: -12, y: -12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_haroro_01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_coin_spartans
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 803
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -9.5}
+        - {x: -24.5, y: 15.5}
+        - {x: -16.5, y: -24.5}
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -24.5, y: 15.5}
+      - - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 12.5, y: 24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 24.5, y: 13.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 12.5, y: 24.5}
+      - - {x: 24.5, y: -15.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 24.5, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_haroro_03
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 671
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_bignose_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_ability_select
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 237
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118.5, y: -23}
+        - {x: -118.5, y: 27}
+        - {x: -110.5, y: -39}
+      - - {x: -109.5, y: 39}
+        - {x: -110.5, y: -39}
+        - {x: -118.5, y: 27}
+      - - {x: -106.5, y: -7}
+        - {x: -110.5, y: -39}
+        - {x: -109.5, y: 39}
+      - - {x: -76.5, y: -28}
+        - {x: -110.5, y: -39}
+        - {x: -106.5, y: -7}
+      - - {x: 118.5, y: -39}
+        - {x: -110.5, y: -39}
+        - {x: -76.5, y: -28}
+      - - {x: 100.5, y: -29}
+        - {x: 118.5, y: -39}
+        - {x: -76.5, y: -28}
+      - - {x: 101.5, y: 39}
+        - {x: 118.5, y: -39}
+        - {x: 100.5, y: -29}
+      - - {x: 118.5, y: 37}
+        - {x: 118.5, y: -39}
+        - {x: 101.5, y: 39}
+      - - {x: 101.5, y: 39}
+        - {x: -61.5, y: 22}
+        - {x: -109.5, y: 39}
+      - - {x: -106.5, y: -7}
+        - {x: -109.5, y: 39}
+        - {x: -61.5, y: 22}
+      - - {x: 100.5, y: -29}
+        - {x: -61.5, y: 22}
+        - {x: 101.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_ace_01
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 80
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_bignose_01
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 525
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_Preference_flag_kr
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 187
+        width: 98
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -37}
+        - {x: -49, y: 37}
+        - {x: 49, y: -37}
+      - - {x: 45, y: 37}
+        - {x: 49, y: -37}
+        - {x: -49, y: 37}
+      - - {x: 49, y: 34}
+        - {x: 49, y: -37}
+        - {x: 45, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_check
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 110
+        width: 96
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -18}
+        - {x: -48, y: -5}
+        - {x: -13, y: -47}
+      - - {x: -23, y: 12}
+        - {x: -13, y: -47}
+        - {x: -48, y: -5}
+      - - {x: 5, y: 20}
+        - {x: -13, y: -47}
+        - {x: -23, y: 12}
+      - - {x: 1, y: -47}
+        - {x: -13, y: -47}
+        - {x: 5, y: 20}
+      - - {x: 48, y: 3}
+        - {x: 1, y: -47}
+        - {x: 5, y: 20}
+      - - {x: 15, y: 32}
+        - {x: 48, y: 3}
+        - {x: 5, y: 20}
+      - - {x: 33, y: 47}
+        - {x: 48, y: 3}
+        - {x: 15, y: 32}
+      - - {x: 48, y: 47}
+        - {x: 48, y: 3}
+        - {x: 33, y: 47}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_hiphoper_03
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 452
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_facebook
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 343
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -14}
+        - {x: -39, y: 14}
+        - {x: -34, y: -25}
+      - - {x: -34, y: 25}
+        - {x: -34, y: -25}
+        - {x: -39, y: 14}
+      - - {x: -25, y: -34}
+        - {x: -34, y: -25}
+        - {x: -34, y: 25}
+      - - {x: -25, y: 34}
+        - {x: -25, y: -34}
+        - {x: -34, y: 25}
+      - - {x: -14, y: -39}
+        - {x: -25, y: -34}
+        - {x: -25, y: 34}
+      - - {x: -18, y: 39}
+        - {x: -14, y: -39}
+        - {x: -25, y: 34}
+      - - {x: 35, y: 39}
+        - {x: -14, y: -39}
+        - {x: -18, y: 39}
+      - - {x: 17, y: -39}
+        - {x: -14, y: -39}
+        - {x: 35, y: 39}
+      - - {x: 36, y: -26}
+        - {x: 17, y: -39}
+        - {x: 35, y: 39}
+      - - {x: 39, y: 25}
+        - {x: 36, y: -26}
+        - {x: 35, y: 39}
+      - - {x: 39, y: -23}
+        - {x: 36, y: -26}
+        - {x: 39, y: 25}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_ranking
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 343
+        width: 80.97325
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5001652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -22}
+        - {x: -40.5, y: 22}
+        - {x: -21.5, y: -39}
+      - - {x: -24.5, y: 39}
+        - {x: -21.5, y: -39}
+        - {x: -40.5, y: 22}
+      - - {x: 31.5, y: 39}
+        - {x: -21.5, y: -39}
+        - {x: -24.5, y: 39}
+      - - {x: 24.5, y: -39}
+        - {x: -21.5, y: -39}
+        - {x: 31.5, y: 39}
+      - - {x: 27.5, y: -38}
+        - {x: 24.5, y: -39}
+        - {x: 31.5, y: 39}
+      - - {x: 40.5, y: -30}
+        - {x: 27.5, y: -38}
+        - {x: 31.5, y: 39}
+      - - {x: 40.5, y: 25}
+        - {x: 40.5, y: -30}
+        - {x: 31.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_2_gold
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 694
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -23.5}
+        - {x: -30.5, y: 24.5}
+        - {x: -29.5, y: -28.5}
+      - - {x: -18.5, y: 28.5}
+        - {x: -29.5, y: -28.5}
+        - {x: -30.5, y: 24.5}
+      - - {x: 27.5, y: -28.5}
+        - {x: -29.5, y: -28.5}
+        - {x: -18.5, y: 28.5}
+      - - {x: 20.5, y: 28.5}
+        - {x: 27.5, y: -28.5}
+        - {x: -18.5, y: 28.5}
+      - - {x: 26.5, y: 23.5}
+        - {x: 27.5, y: -28.5}
+        - {x: 20.5, y: 28.5}
+      - - {x: 30.5, y: 5.5}
+        - {x: 27.5, y: -28.5}
+        - {x: 26.5, y: 23.5}
+      - - {x: 30.5, y: -26.5}
+        - {x: 27.5, y: -28.5}
+        - {x: 30.5, y: 5.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_bonus_jewelry
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 755
+        width: 56
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -23}
+        - {x: -28, y: 23}
+        - {x: 18, y: -23}
+      - - {x: 28, y: 23}
+        - {x: 18, y: -23}
+        - {x: -28, y: 23}
+      - - {x: 28, y: -4}
+        - {x: 18, y: -23}
+        - {x: 28, y: 23}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_two_jump
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -54}
+        - {x: -54, y: 53}
+        - {x: 54, y: -54}
+      - - {x: -53, y: 54}
+        - {x: 54, y: -54}
+        - {x: -54, y: 53}
+      - - {x: 54, y: 54}
+        - {x: 54, y: -54}
+        - {x: -53, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_relay
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -54}
+        - {x: -54, y: 53}
+        - {x: 54, y: -54}
+      - - {x: -53, y: 54}
+        - {x: 54, y: -54}
+        - {x: -54, y: 53}
+      - - {x: 54, y: 54}
+        - {x: 54, y: -54}
+        - {x: -53, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_btn_bg_red
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 850
+        width: 26
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 51, z: 11, w: 8}
+      outline:
+      - - {x: -13, y: 35}
+        - {x: 13, y: 35}
+        - {x: -13, y: -35}
+      - - {x: -13, y: -35}
+        - {x: 13, y: 35}
+        - {x: 13, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_gift_boxe
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 553
+        width: 72
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -14.5}
+        - {x: -36, y: 28.5}
+        - {x: -29, y: -32.5}
+      - - {x: -31, y: 32.5}
+        - {x: -29, y: -32.5}
+        - {x: -36, y: 28.5}
+      - - {x: 21, y: 32.5}
+        - {x: -29, y: -32.5}
+        - {x: -31, y: 32.5}
+      - - {x: 19, y: -32.5}
+        - {x: -29, y: -32.5}
+        - {x: 21, y: 32.5}
+      - - {x: 36, y: -3.5}
+        - {x: 19, y: -32.5}
+        - {x: 21, y: 32.5}
+      - - {x: 36, y: 28.5}
+        - {x: 36, y: -3.5}
+        - {x: 21, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_badboy_03
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 493
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_Preference_flag_en
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 261
+        width: 98
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -37}
+        - {x: -49, y: 37}
+        - {x: 49, y: -37}
+      - - {x: 45, y: 37}
+        - {x: 49, y: -37}
+        - {x: -49, y: 37}
+      - - {x: 49, y: 34}
+        - {x: 49, y: -37}
+        - {x: 45, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_lock
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 389
+        width: 70
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -44.5}
+        - {x: -35, y: 21.5}
+        - {x: 35, y: -44.5}
+      - - {x: -32, y: 44.5}
+        - {x: 35, y: -44.5}
+        - {x: -35, y: 21.5}
+      - - {x: 26, y: 44.5}
+        - {x: 35, y: -44.5}
+        - {x: -32, y: 44.5}
+      - - {x: 35, y: 37.5}
+        - {x: 35, y: -44.5}
+        - {x: 26, y: 44.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_coin_haroro
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 753
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -9.5}
+        - {x: -24.5, y: 15.5}
+        - {x: -16.5, y: -24.5}
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -24.5, y: 15.5}
+      - - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 12.5, y: 24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 24.5, y: 13.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 12.5, y: 24.5}
+      - - {x: 24.5, y: -15.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 24.5, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_right_arrow
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 638
+        width: 52
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -46}
+        - {x: -26, y: 46}
+        - {x: 26, y: -46}
+      - - {x: 24, y: 46}
+        - {x: 26, y: -46}
+        - {x: -26, y: 46}
+      - - {x: 26, y: 45}
+        - {x: 26, y: -46}
+        - {x: 24, y: 46}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_Description_bg
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 698
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 17, z: 17, w: 12}
+      outline:
+      - - {x: -22.5, y: -23.5}
+        - {x: -22.5, y: 23.5}
+        - {x: 22.5, y: -23.5}
+      - - {x: 21.5, y: 23.5}
+        - {x: 22.5, y: -23.5}
+        - {x: -22.5, y: 23.5}
+      - - {x: 22.5, y: 22.5}
+        - {x: 22.5, y: -23.5}
+        - {x: 21.5, y: 23.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_ace_03
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 420
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tame_bg
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 854
+        width: 25
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 9, w: 9}
+      outline:
+      - - {x: -12.5, y: 11.5}
+        - {x: 12.5, y: 11.5}
+        - {x: -12.5, y: -11.5}
+      - - {x: -12.5, y: -11.5}
+        - {x: 12.5, y: 11.5}
+        - {x: 12.5, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_preference
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 413
+        width: 80.97325
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5001652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -22}
+        - {x: -40.5, y: 22}
+        - {x: -21.5, y: -39}
+      - - {x: -24.5, y: 39}
+        - {x: -21.5, y: -39}
+        - {x: -40.5, y: 22}
+      - - {x: 31.5, y: 39}
+        - {x: -21.5, y: -39}
+        - {x: -24.5, y: 39}
+      - - {x: 24.5, y: -39}
+        - {x: -21.5, y: -39}
+        - {x: 31.5, y: 39}
+      - - {x: 27.5, y: -38}
+        - {x: 24.5, y: -39}
+        - {x: 31.5, y: 39}
+      - - {x: 40.5, y: -30}
+        - {x: 27.5, y: -38}
+        - {x: 31.5, y: 39}
+      - - {x: 40.5, y: 25}
+        - {x: 40.5, y: -30}
+        - {x: 31.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_Preference_flag_cn
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 70
+        width: 98
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -37}
+        - {x: -49, y: 37}
+        - {x: 49, y: -37}
+      - - {x: 45, y: 37}
+        - {x: 49, y: -37}
+        - {x: -49, y: 37}
+      - - {x: 49, y: 34}
+        - {x: 49, y: -37}
+        - {x: 45, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_character_buy_bg
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 753
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 18, z: 16, w: 9}
+      outline:
+      - - {x: -22, y: -21}
+        - {x: -22, y: 21}
+        - {x: 22, y: -21}
+      - - {x: 20, y: 21}
+        - {x: 22, y: -21}
+        - {x: -22, y: 21}
+      - - {x: 22, y: 15}
+        - {x: 22, y: -21}
+        - {x: 20, y: 21}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_popup_close_btn_bg
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 569
+        width: 67
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -3.5}
+        - {x: -33.5, y: 20.5}
+        - {x: -8.5, y: -32.5}
+      - - {x: -22.5, y: 32.5}
+        - {x: -8.5, y: -32.5}
+        - {x: -33.5, y: 20.5}
+      - - {x: 26.5, y: 32.5}
+        - {x: -8.5, y: -32.5}
+        - {x: -22.5, y: 32.5}
+      - - {x: 23.5, y: -32.5}
+        - {x: -8.5, y: -32.5}
+        - {x: 26.5, y: 32.5}
+      - - {x: 33.5, y: -29.5}
+        - {x: 23.5, y: -32.5}
+        - {x: 26.5, y: 32.5}
+      - - {x: 33.5, y: 16.5}
+        - {x: 33.5, y: -29.5}
+        - {x: 26.5, y: 32.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_fever_up
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 630
+        width: 59
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: -24}
+        - {x: -29.5, y: 27}
+        - {x: -20.5, y: -27}
+      - - {x: 29.5, y: 27}
+        - {x: -20.5, y: -27}
+        - {x: -29.5, y: 27}
+      - - {x: 27.5, y: -27}
+        - {x: -20.5, y: -27}
+        - {x: 29.5, y: 27}
+      - - {x: 29.5, y: -23}
+        - {x: 27.5, y: -27}
+        - {x: 29.5, y: 27}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_ch_shop
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 168
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: -33}
+        - {x: -84, y: 34}
+        - {x: -81, y: -34}
+      - - {x: 84, y: 34}
+        - {x: -81, y: -34}
+        - {x: -84, y: 34}
+      - - {x: -31, y: -34}
+        - {x: -81, y: -34}
+        - {x: 84, y: 34}
+      - - {x: -19, y: -32}
+        - {x: -31, y: -34}
+        - {x: 84, y: 34}
+      - - {x: 33, y: -17}
+        - {x: -19, y: -32}
+        - {x: 84, y: 34}
+      - - {x: 81, y: 14}
+        - {x: 33, y: -17}
+        - {x: 84, y: 34}
+      - - {x: 84, y: 20}
+        - {x: 81, y: 14}
+        - {x: 84, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_game_jewelry_04
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 420
+        width: 84
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -37}
+        - {x: -42, y: 12}
+        - {x: 30, y: -37}
+      - - {x: -20, y: 37}
+        - {x: 30, y: -37}
+        - {x: -42, y: 12}
+      - - {x: 42, y: 37}
+        - {x: 30, y: -37}
+        - {x: -20, y: 37}
+      - - {x: 42, y: -34}
+        - {x: 30, y: -37}
+        - {x: 42, y: 37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_yuruce_03
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_icon_small_game_coin
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: 12, y: 12}
+        - {x: -12, y: -12}
+      - - {x: -12, y: -12}
+        - {x: 12, y: 12}
+        - {x: 12, y: -12}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_item_select
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 301
+        width: 110
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline:
+      - - {x: -55, y: 54}
+        - {x: -46, y: -41}
+        - {x: -55, y: -55}
+      - - {x: 55, y: -55}
+        - {x: -55, y: -55}
+        - {x: -46, y: -41}
+      - - {x: -54, y: 55}
+        - {x: -46, y: -41}
+        - {x: -55, y: 54}
+      - - {x: 42, y: -45}
+        - {x: 55, y: -55}
+        - {x: -46, y: -41}
+      - - {x: 45, y: 42}
+        - {x: 55, y: -55}
+        - {x: 42, y: -45}
+      - - {x: 55, y: 55}
+        - {x: -42, y: 45}
+        - {x: -54, y: 55}
+      - - {x: -46, y: -41}
+        - {x: -54, y: 55}
+        - {x: -42, y: 45}
+      - - {x: 45, y: 42}
+        - {x: -42, y: 45}
+        - {x: 55, y: 55}
+      - - {x: 55, y: -55}
+        - {x: 45, y: 42}
+        - {x: 55, y: 55}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_hiphoper_02
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_coin_bignose
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 647
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -9.5}
+        - {x: -24.5, y: 15.5}
+        - {x: -16.5, y: -24.5}
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -24.5, y: 15.5}
+      - - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 12.5, y: 24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 24.5, y: 13.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 12.5, y: 24.5}
+      - - {x: 24.5, y: -15.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 24.5, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_haroro_02
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 464
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_friend_photo_default
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 452
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_spartans_02
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 496
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_popup_bg
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 263
+        width: 57
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 63, z: 27, w: 49}
+      outline:
+      - - {x: -28.5, y: -54}
+        - {x: -28.5, y: 63}
+        - {x: -19.5, y: -63}
+      - - {x: 19.5, y: 63}
+        - {x: -19.5, y: -63}
+        - {x: -28.5, y: 63}
+      - - {x: 28.5, y: -63}
+        - {x: -19.5, y: -63}
+        - {x: 19.5, y: 63}
+      - - {x: 28.5, y: 58}
+        - {x: 28.5, y: -63}
+        - {x: 19.5, y: 63}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_mailbox
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 423
+        width: 65
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: -27}
+        - {x: -32.5, y: 28}
+        - {x: -28.5, y: -30}
+      - - {x: -30.5, y: 30}
+        - {x: -28.5, y: -30}
+        - {x: -32.5, y: 28}
+      - - {x: 29.5, y: 30}
+        - {x: -28.5, y: -30}
+        - {x: -30.5, y: 30}
+      - - {x: 32.5, y: -30}
+        - {x: -28.5, y: -30}
+        - {x: 29.5, y: 30}
+      - - {x: 32.5, y: 28}
+        - {x: 32.5, y: -30}
+        - {x: 29.5, y: 30}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_mission
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 80.97325
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5001652, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -22}
+        - {x: -40.5, y: 22}
+        - {x: -21.5, y: -39}
+      - - {x: -24.5, y: 39}
+        - {x: -21.5, y: -39}
+        - {x: -40.5, y: 22}
+      - - {x: 31.5, y: 39}
+        - {x: -21.5, y: -39}
+        - {x: -24.5, y: 39}
+      - - {x: 24.5, y: -39}
+        - {x: -21.5, y: -39}
+        - {x: 31.5, y: 39}
+      - - {x: 27.5, y: -38}
+        - {x: 24.5, y: -39}
+        - {x: 31.5, y: 39}
+      - - {x: 40.5, y: -30}
+        - {x: 27.5, y: -38}
+        - {x: 31.5, y: 39}
+      - - {x: 40.5, y: 25}
+        - {x: 40.5, y: -30}
+        - {x: 31.5, y: 39}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_small_gift_box
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 110
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 15}
+        - {x: 15, y: 15}
+        - {x: -15, y: -15}
+      - - {x: -15, y: -15}
+        - {x: 15, y: 15}
+        - {x: 15, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_ace_02
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 343
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_hiphoper_01
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 416
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35.5}
+        - {x: -35, y: 35.5}
+        - {x: 35, y: -35.5}
+      - - {x: 34, y: 35.5}
+        - {x: 35, y: -35.5}
+        - {x: -35, y: 35.5}
+      - - {x: 35, y: 34.5}
+        - {x: 35, y: -35.5}
+        - {x: 34, y: 35.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_rattendance_itme_bg
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 747
+        width: 20
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 9, w: 9}
+      outline:
+      - - {x: -10, y: 10}
+        - {x: 10, y: 10}
+        - {x: -10, y: -10}
+      - - {x: -10, y: -10}
+        - {x: 10, y: 10}
+        - {x: 10, y: -10}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_last_fever
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 193
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -54}
+        - {x: -54, y: 53}
+        - {x: 54, y: -54}
+      - - {x: -53, y: 54}
+        - {x: 54, y: -54}
+        - {x: -54, y: 53}
+      - - {x: 54, y: 54}
+        - {x: 54, y: -54}
+        - {x: -53, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_btn_start_fever
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 303
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: -54}
+        - {x: -54, y: 53}
+        - {x: 54, y: -54}
+      - - {x: -53, y: 54}
+        - {x: 54, y: -54}
+        - {x: -54, y: 53}
+      - - {x: 54, y: 54}
+        - {x: 54, y: -54}
+        - {x: -53, y: 54}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_gold_04
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 146
+        width: 88
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: -30.5}
+        - {x: -44, y: 12.5}
+        - {x: -42, y: -39.5}
+      - - {x: -21, y: 39.5}
+        - {x: -42, y: -39.5}
+        - {x: -44, y: 12.5}
+      - - {x: 39, y: -39.5}
+        - {x: -42, y: -39.5}
+        - {x: -21, y: 39.5}
+      - - {x: 33, y: 39.5}
+        - {x: 39, y: -39.5}
+        - {x: -21, y: 39.5}
+      - - {x: 44, y: 28.5}
+        - {x: 39, y: -39.5}
+        - {x: 33, y: 39.5}
+      - - {x: 44, y: -35.5}
+        - {x: 39, y: -39.5}
+        - {x: 44, y: 28.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_game_jewelry_02
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 636
+        width: 76
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -28}
+        - {x: -38, y: 13}
+        - {x: 22, y: -28}
+      - - {x: -24, y: 28}
+        - {x: 22, y: -28}
+        - {x: -38, y: 13}
+      - - {x: 30, y: 28}
+        - {x: 22, y: -28}
+        - {x: -24, y: 28}
+      - - {x: 38, y: -19}
+        - {x: 22, y: -28}
+        - {x: 30, y: 28}
+      - - {x: 38, y: 3}
+        - {x: 38, y: -19}
+        - {x: 30, y: 28}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_point_up
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 744
+        width: 67
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: -11}
+        - {x: -33.5, y: 20}
+        - {x: -15.5, y: -31}
+      - - {x: -18.5, y: 31}
+        - {x: -15.5, y: -31}
+        - {x: -33.5, y: 20}
+      - - {x: 26.5, y: 31}
+        - {x: -15.5, y: -31}
+        - {x: -18.5, y: 31}
+      - - {x: 26.5, y: -31}
+        - {x: -15.5, y: -31}
+        - {x: 26.5, y: 31}
+      - - {x: 33.5, y: -29}
+        - {x: 26.5, y: -31}
+        - {x: 26.5, y: 31}
+      - - {x: 33.5, y: 16}
+        - {x: 33.5, y: -29}
+        - {x: 26.5, y: 31}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_gold_02
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 496
+        width: 75
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -14.5}
+        - {x: -37.5, y: 9.5}
+        - {x: -18.5, y: -26.5}
+      - - {x: -21.5, y: 24.5}
+        - {x: -18.5, y: -26.5}
+        - {x: -37.5, y: 9.5}
+      - - {x: -15.5, y: 26.5}
+        - {x: -18.5, y: -26.5}
+        - {x: -21.5, y: 24.5}
+      - - {x: 24.5, y: -26.5}
+        - {x: -18.5, y: -26.5}
+        - {x: -15.5, y: 26.5}
+      - - {x: 37.5, y: 26.5}
+        - {x: 24.5, y: -26.5}
+        - {x: -15.5, y: 26.5}
+      - - {x: 37.5, y: -15.5}
+        - {x: 24.5, y: -26.5}
+        - {x: 37.5, y: 26.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_btn_popup_close
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 744
+        width: 53
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -18.5}
+        - {x: -26.5, y: 19.5}
+        - {x: -23.5, y: -26.5}
+      - - {x: -15.5, y: 26.5}
+        - {x: -23.5, y: -26.5}
+        - {x: -26.5, y: 19.5}
+      - - {x: 26.5, y: -26.5}
+        - {x: -23.5, y: -26.5}
+        - {x: -15.5, y: 26.5}
+      - - {x: 10.5, y: 26.5}
+        - {x: 26.5, y: -26.5}
+        - {x: -15.5, y: 26.5}
+      - - {x: 16.5, y: 23.5}
+        - {x: 26.5, y: -26.5}
+        - {x: 10.5, y: 26.5}
+      - - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: -26.5}
+        - {x: 16.5, y: 23.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_facebook_log
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 566
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: -35}
+      - - {x: 35, y: 35}
+        - {x: 35, y: -35}
+        - {x: -35, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ingame_icon_tv
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 413
+        width: 52
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -24}
+        - {x: -26, y: 25}
+        - {x: -24, y: -25}
+      - - {x: 26, y: 25}
+        - {x: -24, y: -25}
+        - {x: -26, y: 25}
+      - - {x: 21, y: -25}
+        - {x: -24, y: -25}
+        - {x: 26, y: 25}
+      - - {x: 26, y: -14}
+        - {x: 21, y: -25}
+        - {x: 26, y: 25}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: main_icon_Character_coin_hiphoper
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 799
+        width: 49
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -9.5}
+        - {x: -24.5, y: 15.5}
+        - {x: -16.5, y: -24.5}
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -24.5, y: 15.5}
+      - - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 12.5, y: 24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: -16.5, y: 24.5}
+      - - {x: 24.5, y: 13.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 12.5, y: 24.5}
+      - - {x: 24.5, y: -15.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 24.5, y: 13.5}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: common_shop_icon_game_coin_03
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 496
+        width: 77
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -24.5}
+        - {x: -38.5, y: 17.5}
+        - {x: 38.5, y: -24.5}
+      - - {x: -35.5, y: 24.5}
+        - {x: 38.5, y: -24.5}
+        - {x: -38.5, y: 17.5}
+      - - {x: 38.5, y: 24.5}
+        - {x: 38.5, y: -24.5}
+        - {x: -35.5, y: 24.5}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

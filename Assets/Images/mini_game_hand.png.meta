@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: cc8e12d662204ccdae7f20aa3ced4944
+timeCreated: 1710969508
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mini_game_hand
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapMode: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 9
+  spritePivot: {x: 0.9092278, y: 0.8918412}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mini_game_hand
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 115
+        height: 105
+      alignment: 9
+      pivot: {x: 0.9092278, y: 0.8918412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -57.5, y: -46.5}
+      - {x: -57.5, y: 24.5}
+      - {x: -43.5, y: -52.5}
+    - - {x: -51.5, y: 37.5}
+      - {x: -43.5, y: -52.5}
+      - {x: -57.5, y: 24.5}
+    - - {x: 19.5, y: 52.5}
+      - {x: -43.5, y: -52.5}
+      - {x: -51.5, y: 37.5}
+    - - {x: 24.5, y: -52.5}
+      - {x: -43.5, y: -52.5}
+      - {x: 19.5, y: 52.5}
+    - - {x: 57.5, y: 52.5}
+      - {x: 24.5, y: -52.5}
+      - {x: 19.5, y: 52.5}
+    - - {x: 41.5, y: -43.5}
+      - {x: 24.5, y: -52.5}
+      - {x: 57.5, y: 52.5}
+    - - {x: 57.5, y: -0.5}
+      - {x: 41.5, y: -43.5}
+      - {x: 57.5, y: 52.5}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
